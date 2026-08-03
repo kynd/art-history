@@ -70,6 +70,16 @@ export const ARTISTS = [
   { label: 'Alberto Giacometti', group: 'Fine art', aliases: ['Giacometti', 'ジャコメッティ'] },
   { label: 'Giorgio Morandi', group: 'Fine art', aliases: ['Morandi', 'モランディ'] },
   { label: 'Wayne Thiebaud', group: 'Fine art', aliases: ['Thiebaud', 'ティーボー'] },
+  { label: 'Claude Monet', group: 'Fine art', aliases: ['Monet', 'モネ'] },
+  { label: 'Edgar Degas', group: 'Fine art', aliases: ['Degas', 'ドガ'] },
+  { label: 'Gerhard Richter', group: 'Fine art', aliases: ['Richter', 'リヒター'] },
+  { label: 'Luc Tuymans', group: 'Fine art', aliases: ['Tuymans', 'タイマンス'] },
+  { label: 'Raoul De Keyser', group: 'Fine art', aliases: ['De Keyser', 'デ・カイザー'] },
+  { label: 'Peter Doig', group: 'Fine art', aliases: ['Doig', 'ドイグ'] },
+  { label: 'Elizabeth Peyton', group: 'Fine art', aliases: ['Peyton', 'ペイトン'] },
+  { label: 'Michaël Borremans', group: 'Fine art', aliases: ['Borremans', 'ボレマンス'] },
+  { label: 'Issy Wood', group: 'Fine art', aliases: ['イッシー・ウッド'] },
+  { label: 'Avery Singer', group: 'Fine art', aliases: ['エイヴリー・シンガー'] },
   { label: 'Dorothea Lange', group: 'Fine art', aliases: ['ドロシア・ラング'] },
   { label: 'Jackson Pollock', group: 'Fine art', aliases: ['Pollock', 'ポロック'] },
   { label: 'Mark Rothko', group: 'Fine art', aliases: ['Rothko', 'ロスコ'] },
@@ -193,6 +203,8 @@ export const ARTISTS = [
 // group: 'Movements' | 'Media & concepts' | 'History & society'
 export const KEYWORDS = [
   // ── Movements & styles ──────────────────────────────────────
+  { label: 'Impressionism', group: 'Movements', aliases: ['Impressionist', '印象派'] },
+  { label: 'New European Painting', group: 'Movements', aliases: ['ニュー・ヨーロピアン・ペインティング'] },
   { label: 'Fauvism', group: 'Movements', aliases: ['Fauves', 'フォーヴィスム'] },
   { label: 'Expressionism', group: 'Movements', aliases: ['表現主義'] },
   { label: 'Cubism', group: 'Movements', aliases: ['キュビスム'] },
@@ -237,6 +249,8 @@ export const KEYWORDS = [
 
   // ── Media & concepts ────────────────────────────────────────
   { label: 'The Readymade', query: 'the readymade and the ordinary object as art', group: 'Media & concepts', aliases: ['readymade', 'レディメイド'] },
+  { label: 'The death of painting', query: 'the death of painting narrative', group: 'Media & concepts', aliases: ['絵画の死'] },
+  { label: 'Painting after photography', query: 'painting after photography, the image as raw material', group: 'Media & concepts', aliases: ['写真以後の絵画'] },
   { label: 'Collage', group: 'Media & concepts', aliases: ['コラージュ'] },
   { label: 'Installation art', group: 'Media & concepts', aliases: ['installation', 'インスタレーション'] },
   { label: 'Video art', group: 'Media & concepts', aliases: ['ビデオ・アート'] },

@@ -46,16 +46,23 @@ function parse(raw) {
   return { data, body };
 }
 
-// First paragraph = summary: first block of prose that isn't a heading/blank.
-function firstParagraph(body) {
-  const blocks = body.trim().split(/\n\s*\n/);
-  for (const b of blocks) {
-    const t = b.trim();
-    if (!t || t.startsWith('#') || t.startsWith('<!--')) continue;
-    // strip markdown emphasis markers for a clean summary
-    return t.replace(/\s+/g, ' ').replace(/[*_`]/g, '').trim();
+const cleanBlock = (t) => t.replace(/\s+/g, ' ').replace(/[*_`]/g, '').trim();
+const isProse = (t) => t && !t.startsWith('#') && !t.startsWith('<!--') && !t.startsWith('<') && t !== '---';
+
+// Summaries: the first English prose block, and the Japanese block that follows it
+// (after the `<!-- -->` separator). Used for the search snippet and result lists.
+function summaries(body) {
+  const blocks = body.trim().split(/\n\s*\n/).map((b) => b.trim());
+  let i = blocks.findIndex(isProse);
+  if (i === -1) return { en: '', ja: '' };
+  const en = cleanBlock(blocks[i]);
+  let ja = '';
+  for (let j = i + 1; j < blocks.length; j++) {
+    if (blocks[j].startsWith('<!--')) continue; // skip the EN/JA separator
+    if (isProse(blocks[j])) ja = cleanBlock(blocks[j]);
+    break; // stop at the first block after the separator (JA, or a section break)
   }
-  return '';
+  return { en, ja };
 }
 
 function cosine(a, b) {
@@ -82,7 +89,7 @@ async function main() {
     const raw = await readFile(join(ARTICLES_DIR, file), 'utf8');
     const { data, body } = parse(raw);
     const slug = file.replace(/\.md$/, '');
-    const summary = firstParagraph(body);
+    const { en: summary, ja: summaryJa } = summaries(body);
     const title = data.title || slug;
     const topics = data.topics || [];
     console.log('[build-index] embedding %s', slug);
@@ -104,7 +111,7 @@ async function main() {
     const created = data.created || null;
     const updated = data.updated || created || null;
     const mtime = (await stat(join(ARTICLES_DIR, file))).mtimeMs;
-    articles.push({ slug, title, summary, topics, vector, text, created, updated, mtime });
+    articles.push({ slug, title, summary, summaryJa, topics, vector, text, created, updated, mtime });
   }
 
   // Precompute top-N related per article (cosine over article vectors).

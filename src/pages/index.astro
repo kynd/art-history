@@ -12,7 +12,7 @@ try {
   const p = fileURLToPath(new URL('../../public/search-index.json', import.meta.url));
   const all = JSON.parse(await readFile(p, 'utf8'));
   entries = all.map((a: any) => ({
-    slug: a.slug, title: a.title, summary: a.summary,
+    slug: a.slug, title: a.title, summary: a.summary, summaryJa: a.summaryJa || '',
     updated: a.updated || '', mtime: a.mtime || 0,
   }));
 } catch {}
@@ -44,8 +44,14 @@ function splitTitle(title: string): { en: string; ja: string } {
         See our <a href={`${base}/policy`}>editorial policy</a> and <a href={`${base}/style`}>writing style</a>.
       </p>
       <div class="ai-note">
-        <p>Every page here is written by AI under human supervision, so — like any written history — these essays can carry mistakes, biases, and particular points of view. Because they are machine-written, the details also carry the typical flaws of that: blunt assertions, puffery, and logical jumps. Rather than trying to fix everything before publishing — an impossible task for a subject as large as art history — we work iteratively, critiquing the pages and revising them as we go. Read them as a starting point, not the final word. And although we aim for broad, global perspectives, the collection leans toward Western and Japanese history, reflecting the reach and knowledge of its human editors rather than any judgement about what matters most.</p>
-        <p>本サイトの文章はすべて、人間の監修のもとでAIが執筆しています。そのため、あらゆる歴史の記述と同じように、誤りや偏り、特定の視点を含むことがあります。さらに、機械が書いた文章であるために、細部には、断定的な物言いや誇張、論理の飛躍といった、AIによる書き物にありがちな欠点も残っています。芸術の歴史のように大きな主題では、公開前にすべてを直しきることはできません。そこで私たちは、ページを批評し、そのつど手を入れながら、少しずつ進めています。最終的な結論ではなく、出発点としてお読みください。また、できるだけ広く多様な視点を扱うよう努めていますが、内容は西洋と日本の歴史に偏っています。これは人間の編集者の知識と及ぶ範囲によるものであり、何が重要かについての判断を示すものではありません。</p>
+        <p>This site is an experiment in curating knowledge with AI. Every page is written by AI under human supervision, and we take a deliberately looser approach than a normal reference would.</p>
+        <p>Because the pages are machine-written, their details carry the typical flaws of that: blunt assertions, puffery, and logical jumps. For a subject as large as art history, fixing everything before publishing is impossible. So we work iteratively — critiquing the pages and revising them as we go.</p>
+        <p>Like any written history, these essays can carry mistakes, biases, and particular points of view. Read them as a starting point, not the final word.</p>
+        <p>And although we aim for broad, global perspectives, the collection leans toward Western and Japanese history. That reflects the reach and knowledge of its human editors, not a judgement about what matters most.</p>
+        <p class="ai-note-ja">本サイトは、AIとともに知を編むための実験です。すべてのページは人間の監修のもとでAIが執筆しており、通常の事典よりも、あえてゆるやかな姿勢で取り組んでいます。</p>
+        <p>機械が書いた文章であるため、細部には、断定的な物言いや誇張、論理の飛躍といった、AIによる書き物にありがちな欠点が残っています。芸術の歴史のように大きな主題では、公開前にすべてを直しきることはできません。そこで私たちは、ページを批評し、そのつど手を入れながら、少しずつ進めています。</p>
+        <p>あらゆる歴史の記述と同じように、これらの文章は誤りや偏り、特定の視点を含むことがあります。最終的な結論ではなく、出発点としてお読みください。</p>
+        <p>また、できるだけ広く多様な視点を扱うよう努めていますが、内容は西洋と日本の歴史に偏っています。これは人間の編集者の知識と及ぶ範囲によるものであり、何が重要かについての判断を示すものではありません。</p>
       </div>
       <div class="chips">
         {TOPICS.map((t) => (
@@ -63,6 +69,7 @@ function splitTitle(title: string): { en: string; ja: string } {
             <a href={`${base}/articles/${a.slug}`}>
               <span class="browse-title">{en}{ja && <span class="ja">{ja}</span>}</span>
               <span class="browse-summary">{a.summary}</span>
+              {a.summaryJa && <span class="browse-summary browse-summary-ja">{a.summaryJa}</span>}
               {a.updated && <span class="browse-date">Updated {a.updated}</span>}
             </a>
           </li>
@@ -91,7 +98,8 @@ function splitTitle(title: string): { en: string; ja: string } {
     color: var(--fg-muted);
   }
   .ai-note p { margin: 0; }
-  .ai-note p + p { margin-top: 0.5rem; }
+  .ai-note p + p { margin-top: 0.6rem; }
+  .ai-note .ai-note-ja { margin-top: 1.1rem; }
 
   .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
   .chip {
@@ -115,6 +123,7 @@ function splitTitle(title: string): { en: string; ja: string } {
     color: var(--fg-muted); font-size: 0.9rem; line-height: 1.6; margin-top: 0.35rem; display: -webkit-box;
     -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
+  .browse-summary-ja { font-size: 0.82rem; color: #999; margin-top: 0.2rem; }
   .browse-date { display: block; margin-top: 0.4rem; font-size: 0.72rem; color: #aaa; }
 
   @media (max-width: 600px) { .page-title { font-size: 2.25rem; } }

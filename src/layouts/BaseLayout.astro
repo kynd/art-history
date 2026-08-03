@@ -141,6 +141,9 @@ const termTargets = [
       color: var(--fg-muted); font-size: 0.92rem; line-height: 1.6; margin-top: 0.4rem;
       display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
     }
+    .result-summary-ja {
+      font-size: 0.86rem; margin-top: 0.3rem; color: #999; -webkit-line-clamp: 2;
+    }
     .result-score { font-size: 0.72rem; color: #bbb; margin-top: 0.35rem; }
 
     /* ── Clickable term links inside prose ────────────────────────── */
@@ -301,9 +304,10 @@ const termTargets = [
       const items = list.map((a) => {
         const { en, ja } = splitTitle(a.title);
         const score = a.score != null ? `<div class="result-score">${Math.min(99, Math.round(a.score * 100))}% match</div>` : '';
+        const summaryJa = a.summaryJa ? `<div class="result-summary result-summary-ja">${a.summaryJa}</div>` : '';
         return `<li class="result"><a class="result-link" href="${base}/articles/${a.slug}">
           <div class="result-title">${en}${ja ? `<span class="ja">${ja}</span>` : ''}</div>
-          <div class="result-summary">${a.summary}</div>${score}
+          <div class="result-summary">${a.summary}</div>${summaryJa}${score}
         </a></li>`;
       }).join('');
       searchView.innerHTML = `

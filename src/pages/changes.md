@@ -8,6 +8,16 @@ introJa: 内容に対する大きな変更の記録です。新しいものか�
 
 ## 2026-08-03
 
+Started a series on painting and the camera: two thematic essays — "From Window to Mirror" (how photography ended painting's role as a window, and why the "death of painting" was a myth) and "Painting After Photography" (the camera image as raw material) — plus profile pages for Gerhard Richter, Luc Tuymans, Raoul De Keyser, Claude Monet, and Edgar Degas.
+
+<!-- -->
+
+絵画とカメラをめぐる連作を始めました。二つのテーマ・エッセイ——「窓から鏡へ」（写真がいかに絵画の「窓」としての役割を終わらせたか、そして「絵画の死」がなぜ神話だったか）と「写真以後の絵画」（原資料としてのカメラ・イメージ）——に加え、ゲルハルト・リヒター、リュック・タイマンス、ラウル・デ・カイザー、クロード・モネ、エドガー・ドガの人物ページを追加しました。
+
+---
+
+## 2026-08-03
+
 Added the essay "The Great Cut" — a bilingual piece arguing that 20th-century art history was not a tidy arc but a violent pivot around the Second World War: pre-war America was no vacuum, Europe was a radical laboratory, the war scattered its avant-garde to New York, and the "hit-chart" narrative hides how long real artists actually work.
 
 <!-- -->
