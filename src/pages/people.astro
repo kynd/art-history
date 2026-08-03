@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TermIndex from '../components/TermIndex.astro';
+import { ARTISTS } from '../data/index-terms.mjs';
+
+const GROUP_ORDER = ['Fine art', 'Design & architecture', 'Film & music', 'Manga & anime'];
+const groups = GROUP_ORDER.map((g) => ({
+  name: g,
+  items: ARTISTS.filter((a) => a.group === g).map((t) => ({ label: t.label, query: t.query || t.label })),
+})).filter((g) => g.items.length);
+---
+
+<BaseLayout title="People · Art and World History">
+  <TermIndex
+    title="People"
+    titleJa="人物"
+    note="Artists, designers, architects, and makers named across the essays. Click a name to run a semantic search."
+    groups={groups}
+    primaryLabel="By category"
+  />
+</BaseLayout>

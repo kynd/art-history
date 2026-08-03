@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TermIndex from '../components/TermIndex.astro';
+import { CHRONOLOGY } from '../data/index-terms.mjs';
+
+const toItem = (t) => ({ label: t.label, query: t.query || t.label });
+const decades = CHRONOLOGY.filter((t) => /^\d{4}s$/.test(t.label)).map(toItem);
+const eras = CHRONOLOGY.filter((t) => !/^\d{4}s$/.test(t.label)).map(toItem);
+const groups = [
+  { name: 'Decades', items: decades },
+  { name: 'Eras', items: eras },
+];
+---
+
+<BaseLayout title="Chronology · Art and World History">
+  <TermIndex
+    title="Chronology"
+    titleJa="年表"
+    note="Periods across the essays. Click one to run a semantic search."
+    groups={groups}
+    primaryLabel="By period"
+  />
+</BaseLayout>

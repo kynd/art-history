@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TermIndex from '../components/TermIndex.astro';
+import { KEYWORDS } from '../data/index-terms.mjs';
+
+const GROUP_ORDER = ['Movements', 'Media & concepts', 'History & society'];
+const groups = GROUP_ORDER.map((g) => ({
+  name: g,
+  items: KEYWORDS.filter((k) => k.group === g).map((t) => ({ label: t.label, query: t.query || t.label })),
+})).filter((g) => g.items.length);
+---
+
+<BaseLayout title="Keywords · Art and World History">
+  <TermIndex
+    title="Keywords"
+    titleJa="キーワード"
+    note="Movements, media, concepts, and historical themes from the essays. Click a keyword to run a semantic search."
+    groups={groups}
+    primaryLabel="By category"
+  />
+</BaseLayout>

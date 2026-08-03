@@ -1,0 +1,102 @@
+---
+// Shared index renderer for the Chronology / People / Keywords pages.
+// Renders terms as plain text (middot-separated), with a sort toggle between the
+// grouped/ordered view and a flat A–Z view. Terms carry data-search, so the global
+// header search (BaseLayout) runs a semantic search on click.
+export interface Props {
+  title: string;
+  titleJa: string;
+  note: string;
+  groups: { name: string; items: { label: string; query: string }[] }[];
+  primaryLabel?: string; // label for the grouped/ordered sort mode
+}
+const { title, titleJa, note, groups, primaryLabel = 'By category' } = Astro.props;
+const dataJson = JSON.stringify(groups);
+---
+
+<div class="index-page">
+  <h1 class="index-title">{title} <span class="ja">{titleJa}</span></h1>
+  <p class="index-note">{note}</p>
+
+  <div class="sort-controls">
+    <span class="sort-label">Sort</span>
+    <button class="sort-opt active" data-sort="grouped">{primaryLabel}</button>
+    <span class="sort-sep">·</span>
+    <button class="sort-opt" data-sort="alpha">A–Z</button>
+  </div>
+
+  <div id="term-index"></div>
+  <script type="application/json" id="term-index-data" set:html={dataJson}></script>
+</div>
+
+<style is:global>
+  .index-page { max-width: 820px; margin: 0 auto; padding: 3rem 1.5rem 6rem; }
+  .index-title { font-size: 2.4rem; font-weight: 300; letter-spacing: -0.03em; line-height: 1.15; }
+  .index-title .ja { color: var(--fg-muted); font-size: 1.4rem; margin-left: 0.6rem; }
+  .index-note { color: var(--fg-muted); font-size: 0.9rem; margin-top: 0.8rem; margin-bottom: 1.75rem; }
+
+  .sort-controls {
+    display: flex; align-items: baseline; gap: 0.5rem;
+    padding-bottom: 1rem; margin-bottom: 1.75rem; border-bottom: 1px solid var(--border);
+  }
+  .sort-label {
+    font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--fg-muted); margin-right: 0.35rem;
+  }
+  .sort-opt {
+    background: none; border: none; cursor: pointer; font-family: inherit;
+    font-size: 0.8rem; color: var(--fg-muted); padding: 0;
+  }
+  .sort-opt:hover { color: var(--fg); }
+  .sort-opt.active { color: var(--fg); font-weight: 600; }
+  .sort-sep { color: #ccc; }
+
+  .tgroup { margin-bottom: 2.25rem; }
+  .group-head {
+    font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--fg-muted); font-weight: 600; margin-bottom: 0.9rem;
+  }
+  .term-list { line-height: 2.1; }
+  .term-list .term { color: var(--fg); white-space: nowrap; }
+  .term-list .term:hover { color: var(--link); text-decoration: underline; opacity: 1; }
+  .term-list .sep { color: #d5d5d5; margin: 0 0.2rem; }
+</style>
+
+<script>
+  const dataEl = document.getElementById('term-index-data')!;
+  const container = document.getElementById('term-index')!;
+  const groups: { name: string; items: { label: string; query: string }[] }[] =
+    JSON.parse(dataEl.textContent || '[]');
+
+  const escHtml = (s: string) =>
+    s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const escAttr = (s: string) => escHtml(s).replace(/"/g, '&quot;');
+
+  const termHtml = (t: { label: string; query: string }) =>
+    `<a class="term" href="#" data-search="${escAttr(t.query)}">${escHtml(t.label)}</a>`;
+  const listHtml = (items: { label: string; query: string }[]) =>
+    // Whitespace around the separator gives the browser line-break opportunities so
+    // the list wraps within the column instead of overflowing horizontally.
+    items.map(termHtml).join(' <span class="sep">·</span> ');
+
+  function renderGrouped() {
+    container.innerHTML = groups
+      .map((g) => `<section class="tgroup"><h2 class="group-head">${escHtml(g.name)}</h2><p class="term-list">${listHtml(g.items)}</p></section>`)
+      .join('');
+  }
+  function renderAlpha() {
+    const all = groups.flatMap((g) => g.items).slice().sort((a, b) => a.label.localeCompare(b.label, 'en'));
+    container.innerHTML = `<p class="term-list">${listHtml(all)}</p>`;
+  }
+
+  document.querySelectorAll<HTMLButtonElement>('.sort-opt').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.sort-opt').forEach((b) => b.classList.remove('active'));
+      btn.classList.add('active');
+      if (btn.dataset.sort === 'alpha') renderAlpha();
+      else renderGrouped();
+    });
+  });
+
+  renderGrouped();
+</script>

@@ -1,82 +1,121 @@
 ---
-import { getCollection } from 'astro:content';
-import DocLayout from '../layouts/DocLayout.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { TOPICS } from '../data/topics.mjs';
+import { readFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 
-const allDocs = await getCollection('docs');
-const visibleDocs = allDocs;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// Find the root index document (slug === 'index')
-const indexDoc = visibleDocs.find((d) => d.slug === 'index');
-let Content: any = null;
-let title = 'Index';
+// Load the built search index for the browse list (title + summary, no vectors shipped here).
+let entries: any[] = [];
+try {
+  const p = fileURLToPath(new URL('../../public/search-index.json', import.meta.url));
+  const all = JSON.parse(await readFile(p, 'utf8'));
+  entries = all.map((a: any) => ({
+    slug: a.slug, title: a.title, summary: a.summary,
+    updated: a.updated || '', mtime: a.mtime || 0,
+  }));
+} catch {}
 
-if (indexDoc) {
-  const rendered = await indexDoc.render();
-  Content = rendered.Content;
-  title = indexDoc.data.title;
+// Most recently edited first (updated date, then file mtime as a same-day tiebreak).
+entries.sort((a, b) =>
+  b.updated.localeCompare(a.updated) || (b.mtime - a.mtime) || a.slug.localeCompare(b.slug));
+
+function splitTitle(title: string): { en: string; ja: string } {
+  const m = title.match(/[぀-鿿＀-￯]/);
+  if (!m || m.index === undefined) return { en: title, ja: '' };
+  const lastSpace = title.lastIndexOf(' ', m.index - 1);
+  if (lastSpace === -1) return { en: title, ja: '' };
+  return { en: title.slice(0, lastSpace).trim(), ja: title.slice(lastSpace + 1).trim() };
 }
-
-const SECTION_ORDER: Record<string, number> = {
-  'writing-guide': 0,
-  'meaning-of-art': 1,
-  'first-page': 2,
-  'research-and-discussions': 3,
-};
-
-// Top-level sections (depth 1, not the root index itself)
-const topLevel = visibleDocs
-  .filter((d) => {
-    const parts = d.slug.split('/');
-    // leaf pages at depth 1, OR index pages at depth 2 (section roots)
-    const isTopLeaf = parts.length === 1 && d.slug !== 'index';
-    const isTopSection = parts.length === 2 && parts[1] === 'index';
-    return isTopLeaf || isTopSection;
-  })
-  .sort((a, b) => {
-    const sa = a.slug.replace(/\/index$/, '');
-    const sb = b.slug.replace(/\/index$/, '');
-    const oa = SECTION_ORDER[sa] ?? 99;
-    const ob = SECTION_ORDER[sb] ?? 99;
-    return oa - ob;
-  });
 ---
 
-<DocLayout title={title} slug="" filePath="">
-  <h1 class="page-title"><span class="title-en">{title}</span></h1>
-  {Content ? (
-    <Content />
-  ) : (
-    <>
-      <h1>{title}</h1>
-      <ul class="index-list">
-        {topLevel.map((doc) => (
-          <li>
-            <a href={`${import.meta.env.BASE_URL}${doc.slug.replace(/\/index$/, '')}`}>
-              {doc.data.title}
+<BaseLayout title="Art and World History">
+  <div class="home">
+    <header class="home-head">
+      <h1 class="page-title">
+        <span class="title-en">Art and World History</span>
+        <span class="title-ja">芸術と世界史</span>
+      </h1>
+      <p class="tagline">
+        Short bilingual essays on art and world history. Search by idea in the bar above,
+        pick a topic below, or browse the <a href={`${base}/chronology`}>chronology</a>,
+        <a href={`${base}/people`}>people</a>, and <a href={`${base}/keyword`}>keywords</a>.
+        See our <a href={`${base}/policy`}>editorial policy</a> and <a href={`${base}/style`}>writing style</a>.
+      </p>
+      <div class="ai-note">
+        <p>Every page here is written by AI under human supervision, so — like any written history — these essays can carry mistakes, biases, and particular points of view. Because they are machine-written, the details also carry the typical flaws of that: blunt assertions, puffery, and logical jumps. Rather than trying to fix everything before publishing — an impossible task for a subject as large as art history — we work iteratively, critiquing the pages and revising them as we go. Read them as a starting point, not the final word. And although we aim for broad, global perspectives, the collection leans toward Western and Japanese history, reflecting the reach and knowledge of its human editors rather than any judgement about what matters most.</p>
+        <p>本サイトの文章はすべて、人間の監修のもとでAIが執筆しています。そのため、あらゆる歴史の記述と同じように、誤りや偏り、特定の視点を含むことがあります。さらに、機械が書いた文章であるために、細部には、断定的な物言いや誇張、論理の飛躍といった、AIによる書き物にありがちな欠点も残っています。芸術の歴史のように大きな主題では、公開前にすべてを直しきることはできません。そこで私たちは、ページを批評し、そのつど手を入れながら、少しずつ進めています。最終的な結論ではなく、出発点としてお読みください。また、できるだけ広く多様な視点を扱うよう努めていますが、内容は西洋と日本の歴史に偏っています。これは人間の編集者の知識と及ぶ範囲によるものであり、何が重要かについての判断を示すものではありません。</p>
+      </div>
+      <div class="chips">
+        {TOPICS.map((t) => (
+          <button class="chip" data-search={t.query}>{t.label}</button>
+        ))}
+      </div>
+    </header>
+
+    <h2 class="browse-head">All essays · {entries.length} · recently edited first</h2>
+    <ul class="browse">
+      {entries.map((a) => {
+        const { en, ja } = splitTitle(a.title);
+        return (
+          <li class="browse-item">
+            <a href={`${base}/articles/${a.slug}`}>
+              <span class="browse-title">{en}{ja && <span class="ja">{ja}</span>}</span>
+              <span class="browse-summary">{a.summary}</span>
+              {a.updated && <span class="browse-date">Updated {a.updated}</span>}
             </a>
           </li>
-        ))}
-      </ul>
-    </>
-  )}
-</DocLayout>
+        );
+      })}
+    </ul>
+  </div>
+</BaseLayout>
 
-<style>
-  .index-list {
-    list-style: none;
-    padding: 0;
+<style is:global>
+  .home { max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem 6rem; }
+  .home-head { margin-bottom: 3rem; }
+  .page-title { font-size: 3rem; font-weight: 300; letter-spacing: -0.03em; line-height: 1.15; }
+  .page-title .title-en, .page-title .title-ja { display: block; }
+  .page-title .title-ja { margin-top: 0.25em; font-size: 1.4rem; color: var(--fg-muted); }
+  .tagline { color: var(--fg-muted); margin-top: 1.1rem; font-size: 0.95rem; line-height: 1.7; }
+  .tagline a { color: var(--fg-muted); text-decoration: underline; }
+  .tagline a:hover { color: var(--fg); }
+
+  .ai-note {
     margin-top: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+    padding-left: 0.9rem;
+    border-left: 2px solid var(--border);
+    font-size: 0.8rem;
+    line-height: 1.6;
+    color: var(--fg-muted);
   }
-  .index-list a {
-    font-size: 1.05rem;
-    color: #000;
-    text-decoration: none;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.5rem;
-    display: block;
+  .ai-note p { margin: 0; }
+  .ai-note p + p { margin-top: 0.5rem; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; }
+  .chip {
+    font-family: inherit; font-size: 0.8rem; color: var(--fg-muted);
+    background: transparent; border: 1px solid var(--border); border-radius: 999px;
+    padding: 0.32rem 0.85rem; cursor: pointer; transition: color 0.15s, border-color 0.15s;
   }
-  .index-list a:hover { border-color: #000; }
+  .chip:hover { color: var(--fg); border-color: #bbb; }
+
+  .browse-head {
+    font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--fg-muted); font-weight: 600; margin-bottom: 0.5rem;
+  }
+  .browse { list-style: none; }
+  .browse-item { padding: 1.4rem 0; border-top: 1px solid var(--border); }
+  .browse-item a { color: var(--fg); display: block; }
+  .browse-item a:hover { opacity: 1; color: var(--link); }
+  .browse-title { font-size: 1.1rem; font-weight: 500; letter-spacing: -0.01em; line-height: 1.3; display: block; }
+  .browse-title .ja { color: var(--fg-muted); font-weight: 400; margin-left: 0.4rem; font-size: 0.88em; }
+  .browse-summary {
+    color: var(--fg-muted); font-size: 0.9rem; line-height: 1.6; margin-top: 0.35rem; display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .browse-date { display: block; margin-top: 0.4rem; font-size: 0.72rem; color: #aaa; }
+
+  @media (max-width: 600px) { .page-title { font-size: 2.25rem; } }
 </style>

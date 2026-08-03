@@ -1,16 +1,19 @@
 {
-  "name": "art-history",
+  "name": "art-research",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
+    "build:index": "node scripts/build-index.mjs",
+    "related": "node scripts/related.mjs",
     "dev": "astro dev",
-    "build": "astro build && touch dist/.nojekyll",
+    "reindex": "npm run build:index",
+    "build": "npm run build:index && astro build && touch dist/.nojekyll",
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^4.15.0",
-    "rehype-katex": "^7.0.1",
-    "remark-math": "^6.0.0",
-    "unist-util-visit": "^5.0.0"
+    "astro": "^4.15.0"
+  },
+  "devDependencies": {
+    "@xenova/transformers": "^2.17.2"
   }
 }

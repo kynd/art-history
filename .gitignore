@@ -1,32 +1,17 @@
-# Standard Node / Dependency Rules
-node_modules/
-package-lock.json
-
-# Astro / Build Output
-.astro/
+# build output
 dist/
+.astro/
 
-# Environmental Variables
-.env
-.env.*
+# deps
+node_modules/
 
-# OS / IDE Specific Files
+# generated search index (regenerated at build time)
+public/search-index.json
+public/related.json
+public/topics.json
+
+# local editor / tool settings
+.claude/settings.local.json
+
+# os
 .DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# Antigravity & Gemini Specific Customizations / Instructions
-.agents/
-.antigravity.md
