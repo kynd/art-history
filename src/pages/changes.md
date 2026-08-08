@@ -6,13 +6,33 @@ intro: A high-level log of substantial changes to the collection's content. Newe
 introJa: 内容に対する大きな変更の記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-08-08
+
+Expanded and published the Marcel Duchamp page. It now traces where the readymade came from — the limits Duchamp found in "retinal" painting, the fourth-dimension mathematics he was reading, and the Dada circle in New York — and closes on the point that he built *The Large Glass* by hand *after* the readymades, so choosing never simply replaced making.
+
+<!-- -->
+
+マルセル・デュシャンのページを大幅に加筆し、公開しました。レディメイドがどこから来たのかを—デュシャンが「網膜的」な絵画に見た限界、彼が読んでいた第四次元の数学、そしてニューヨークのダダの輪を—たどり、最後に、彼がレディメイドの*あと*に《大ガラス》を手で作り上げたこと、つまり選ぶことが作ることを単純に置き換えたわけではない、という点で結んでいます。
+
+---
+
+## 2026-08-05
+
+Added "The Studio and the State," an essay on how the story of Abstract Expressionism was assembled — the Cold War promotion of the movement through MoMA and covert funding, the artists' own left-wing formation in the 1930s, the competing readings of Rosenberg and Greenberg, and the turn toward Post-Painterly Abstraction. Also added critics and curators as a new category on the People index.
+
+<!-- -->
+
+エッセイ「スタジオと国家」を追加しました。抽象表現主義をめぐる物語がどのように組み立てられたのか—MoMAと秘密の資金を通じた冷戦下の宣伝、1930年代における芸術家たち自身の左派的な形成、ローゼンバーグとグリーンバーグの競合する読み、そしてポスト・ペインタリー・アブストラクションへの転回—をたどります。あわせて、人物の索引に「批評家・キュレーター」の区分を新設しました。
+
+---
+
 ## 2026-08-03
 
 Started a series on painting and the camera: two thematic essays — "From Window to Mirror" (how photography ended painting's role as a window, and why the "death of painting" was a myth) and "Painting After Photography" (the camera image as raw material) — plus profile pages for Gerhard Richter, Luc Tuymans, Raoul De Keyser, Claude Monet, and Edgar Degas.
 
 <!-- -->
 
-絵画とカメラをめぐる連作を始めました。二つのテーマ・エッセイ——「窓から鏡へ」（写真がいかに絵画の「窓」としての役割を終わらせたか、そして「絵画の死」がなぜ神話だったか）と「写真以後の絵画」（原資料としてのカメラ・イメージ）——に加え、ゲルハルト・リヒター、リュック・タイマンス、ラウル・デ・カイザー、クロード・モネ、エドガー・ドガの人物ページを追加しました。
+絵画とカメラをめぐる連作を始めました。二つのテーマ・エッセイ—「窓から鏡へ」（写真がいかに絵画の「窓」としての役割を終わらせたか、そして「絵画の死」がなぜ神話だったか）と「写真以後の絵画」（原資料としてのカメラ・イメージ）—に加え、ゲルハルト・リヒター、リュック・タイマンス、ラウル・デ・カイザー、クロード・モネ、エドガー・ドガの人物ページを追加しました。
 
 ---
 

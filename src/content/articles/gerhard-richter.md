@@ -9,7 +9,7 @@ Gerhard Richter (born 1932) is among the most influential and restlessly various
 
 <!-- -->
 
-ゲルハルト・リヒター（1932年生まれ）は、この一世紀で最も影響力があり、たえず多様であり続けてきた画家の一人です。写真から描かれたぼやけた絵と、スキージで削り出された巨大な抽象とのあいだを——しばしば同時に——行き来してきました。その幅広い仕事を貫くのは、ひとつの問いです。カメラ以後、描かれた画像は何のためにあり、それをどこまで信じられるのか。彼は[写真以後の絵画](/articles/painting-after-photography)の中心的な人物です。
+ゲルハルト・リヒター（1932年生まれ）は、この一世紀で最も影響力があり、たえず多様であり続けてきた画家の一人です。写真から描かれたぼやけた絵と、スキージで削り出された巨大な抽象とのあいだを—しばしば同時に—行き来してきました。その幅広い仕事を貫くのは、ひとつの問いです。カメラ以後、描かれた画像は何のためにあり、それをどこまで信じられるのか。彼は[写真以後の絵画](/articles/painting-after-photography)の中心的な人物です。
 
 ---
 
@@ -24,14 +24,14 @@ Richter grew up in Dresden under Nazism and then the East German state, where he
 
 ---
 
-## Method: the neutrality of the photograph
-## 方法——写真の中立性
+## The neutrality of the photograph
+## 写真の中立性
 
 For his photo-paintings, Richter starts from an image — a family snapshot, a newspaper clipping, a found photograph — many of them collected in *Atlas*, an ever-growing archive begun in the 1960s. He paints the picture, then lightly drags a soft brush or a squeegee across the wet surface to produce his signature blur. The blur runs parallel to how we actually perceive the world — always passing, never quite fixed — while holding the image at a critical distance. Part of the appeal, for him, is structural: the photograph "has no style of its own," which frees him from having to invent a subjective composition. "Style is violence," he has said, "and I am not violent."
 
 <!-- -->
 
-フォト・ペインティングにおいて、リヒターは画像から出発します。家族のスナップ、新聞の切り抜き、拾い集めた写真——その多くは、1960年代に始めた増え続けるアーカイブ《アトラス》に収められています。彼は画像を描いたのち、乾いていない表面を柔らかな刷毛やスキージで軽く引きずり、特徴的なぼかしを生みます。このぼかしは、私たちが実際に世界を知覚するあり方——たえず過ぎゆき、決して固定されない——に平行しながら、画像を批評的な距離のうちにとどめます。彼にとって魅力の一部は構造的なものです。写真は「それ自体のスタイルを持たない」ため、主観的な構図を発明する必要から解放されます。「スタイルは暴力だ。しかし私は暴力的ではない」と彼は語っています。
+フォト・ペインティングにおいて、リヒターは画像から出発します。家族のスナップ、新聞の切り抜き、拾い集めた写真—その多くは、1960年代に始めた増え続けるアーカイブ《アトラス》に収められています。彼は画像を描いたのち、乾いていない表面を柔らかな刷毛やスキージで軽く引きずり、特徴的なぼかしを生みます。このぼかしは、私たちが実際に世界を知覚するあり方—たえず過ぎゆき、決して固定されない—に平行しながら、画像を批評的な距離のうちにとどめます。彼にとって魅力の一部は構造的なものです。写真は「それ自体のスタイルを持たない」ため、主観的な構図を発明する必要から解放されます。「スタイルは暴力だ。しかし私は暴力的ではない」と彼は語っています。
 
 ---
 
@@ -42,18 +42,18 @@ In later work the blur turns into a moral instrument. The cycle *October 18, 197
 
 <!-- -->
 
-後年の仕事では、ぼかしは道徳的な道具になります。連作《オクトーバー18, 1977》（1988年）は、バーダー・マインホフ・グループの死者を、警察や報道の写真から描き、追悼も断罪も拒みました。《September》（2005年）は、二機目の飛行機が世界貿易センターに衝突する瞬間を、ほとんど判読できないにじみとして描きます——攻撃の像というより、そうした像がいかに流通し、私たちを麻痺させるかの像です。《Birkenau》（2014年）は最も遠くまで踏み込みます。リヒターは、1944年にアウシュヴィッツ＝ビルケナウの囚人が極秘に撮った四枚の写真から出発し、各キャンバスを削られた抽象の色層の下に埋め、出典がほとんど消えるまで塗り重ねました。生まれたのはホロコーストの描写ではなく、そうした描写がそもそも可能なのかを問う探究です。
+後年の仕事では、ぼかしは道徳的な道具になります。連作《オクトーバー18, 1977》（1988年）は、バーダー・マインホフ・グループの死者を、警察や報道の写真から描き、追悼も断罪も拒みました。《September》（2005年）は、二機目の飛行機が世界貿易センターに衝突する瞬間を、ほとんど判読できないにじみとして描きます—攻撃の像というより、そうした像がいかに流通し、私たちを麻痺させるかの像です。《Birkenau》（2014年）は最も遠くまで踏み込みます。リヒターは、1944年にアウシュヴィッツ＝ビルケナウの囚人が極秘に撮った四枚の写真から出発し、各キャンバスを削られた抽象の色層の下に埋め、出典がほとんど消えるまで塗り重ねました。生まれたのはホロコーストの描写ではなく、そうした描写がそもそも可能なのかを問う探究です。
 
 ---
 
 ## Beyond the photograph
 ## 写真の先へ
 
-Richter's photo-based work is only one strand. He has painted flat grey monochromes, "colour charts" derived from commercial paint samples, and — since about 1980 — the large abstract canvases for which he is equally famous, built by dragging and scraping wet paint with a wide squeegee so that chance does much of the composing. In 2007 he translated this logic into the stained-glass window of Cologne Cathedral, a shimmering grid of randomised colour. Across every mode, the wager is the same: to make a picture while keeping honest about how pictures are made and how little they finally settle.
+Richter's photo-based work is only one strand. He has painted flat grey monochromes, "colour charts" derived from commercial paint samples, and — since about 1980 — the large abstract canvases for which he is equally famous, built by dragging and scraping wet paint with a wide squeegee so that chance does much of the composing. In 2007 he translated this approach into the stained-glass window of Cologne Cathedral, a shimmering grid of randomised colour. Across every mode, the aim is the same: to make a picture while keeping honest about how pictures are made and how little they finally settle.
 
 <!-- -->
 
-写真に基づく仕事は、一本の糸にすぎません。彼は平らな灰色のモノクロームを、商業用の絵の具見本に由来する「色見本」を、そして——1980年ごろからは——同じくらい名高い大きな抽象のキャンバスを描いてきました。幅の広いスキージで乾いていない絵の具を引き、削ることで、構成の多くを偶然に委ねる作品です。2007年には、この論理をケルン大聖堂のステンドグラスへと翻訳しました。無作為化された色のきらめく格子です。あらゆる様式を通じて、賭けられているものは同じです。画像がどう作られ、それが最後にいかに定まらないかについて正直であり続けながら、なお一枚の画像を作ること。
+写真に基づく仕事は、一本の糸にすぎません。彼は平らな灰色のモノクロームを、商業用の絵の具見本に由来する「色見本」を、そして—1980年ごろからは—同じくらい名高い大きな抽象のキャンバスを描いてきました。幅の広いスキージで乾いていない絵の具を引き、削ることで、構成の多くを偶然に委ねる作品です。2007年には、この論理をケルン大聖堂のステンドグラスへと翻訳しました。無作為化された色のきらめく格子です。あらゆる様式を通じて、目指すものは同じです。画像がどう作られ、それが最後にいかに定まらないかについて正直であり続けながら、なお一枚の画像を作ること。
 
 <ol class="footnotes">
 <li>Gerhard Richter — Tate. <a href="https://www.tate.org.uk/art/artists/gerhard-richter-1841" target="_blank" rel="noopener">Artist page and works — Tate</a></li>

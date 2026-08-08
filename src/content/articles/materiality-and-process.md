@@ -38,7 +38,7 @@ Mid-century modernist criticism prized the acknowledgment of a medium's limits �
 ## Process made visible
 ## 可視化されたプロセス
 
-In poured, stained, torn, or accumulated works, the record of how the piece was made becomes what we look at. The drip registers gravity and motion; the stain shows the weave absorbing pigment. Here the artwork is less an image than a trace — evidence of an action performed on real material in real time.
+In poured, stained, torn, or accumulated works, the record of how the piece was made becomes what we look at. The drip records gravity and motion; the stain shows the weave absorbing pigment. Here the artwork is less an image than a trace — evidence of an action performed on real material in real time.
 
 <!-- -->
 

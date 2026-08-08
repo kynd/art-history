@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import TermIndex from '../components/TermIndex.astro';
 import { ARTISTS } from '../data/index-terms.mjs';
 
-const GROUP_ORDER = ['Fine art', 'Design & architecture', 'Film & music', 'Manga & anime'];
+const GROUP_ORDER = ['Fine art', 'Design & architecture', 'Film & music', 'Manga & anime', 'Critics & curators'];
 const groups = GROUP_ORDER.map((g) => ({
   name: g,
   items: ARTISTS.filter((a) => a.group === g).map((t) => ({ label: t.label, query: t.query || t.label })),

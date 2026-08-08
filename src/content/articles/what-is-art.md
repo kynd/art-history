@@ -83,7 +83,7 @@ The initial separation began during the Renaissance, especially in the fifteenth
 ## The Invention of Fine Art
 ## ファインアートの発明
 
-The modern system of art crystallized in the mid-eighteenth century. In 1746, the French philosopher Abbé Charles Batteux published *Les beaux arts réduits à un même principe*, which defined the fine arts as a distinct group: painting, sculpture, music, poetry, and dance. Unlike the mechanical arts, or useful trades, the fine arts were understood as producing pleasure and beauty through the imitation of beautiful nature.<sup>1</sup>
+The modern system of art took shape in the mid-eighteenth century. In 1746, the French philosopher Abbé Charles Batteux published *Les beaux arts réduits à un même principe*, which defined the fine arts as a distinct group: painting, sculpture, music, poetry, and dance. Unlike the mechanical arts, or useful trades, the fine arts were understood as producing pleasure and beauty through the imitation of beautiful nature.<sup>1</sup>
 
 <!-- -->
 

@@ -5,6 +5,7 @@ import { readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const editor = import.meta.env.DEV;
 
 // Load the built search index for the browse list (title + summary, no vectors shipped here).
 let entries: any[] = [];
@@ -13,9 +14,10 @@ try {
   const all = JSON.parse(await readFile(p, 'utf8'));
   entries = all.map((a: any) => ({
     slug: a.slug, title: a.title, summary: a.summary, summaryJa: a.summaryJa || '',
-    updated: a.updated || '', mtime: a.mtime || 0,
+    updated: a.updated || '', mtime: a.mtime || 0, draft: !!a.draft,
   }));
 } catch {}
+const draftCount = entries.filter((e) => e.draft).length;
 
 // Most recently edited first (updated date, then file mtime as a same-day tiebreak).
 entries.sort((a, b) =>
@@ -45,11 +47,11 @@ function splitTitle(title: string): { en: string; ja: string } {
       </p>
       <div class="ai-note">
         <p>This site is an experiment in curating knowledge with AI. Every page is written by AI under human supervision, and we take a deliberately looser approach than a normal reference would.</p>
-        <p>Because the pages are machine-written, their details carry the typical flaws of that: blunt assertions, puffery, and logical jumps. For a subject as large as art history, fixing everything before publishing is impossible. So we work iteratively — critiquing the pages and revising them as we go.</p>
+        <p>We read what the AI has written, find new perspectives and knowledge in it, then doubt and question it. That work is part of the process, and part of what we are learning from. Because the pages are machine-written, their details carry the typical flaws of that: blunt assertions, puffery, and logical jumps. For a subject as large as art history, fixing everything before publishing is impossible. So we work iteratively, critiquing the pages and revising them as we go.</p>
         <p>Like any written history, these essays can carry mistakes, biases, and particular points of view. Read them as a starting point, not the final word.</p>
         <p>And although we aim for broad, global perspectives, the collection leans toward Western and Japanese history. That reflects the reach and knowledge of its human editors, not a judgement about what matters most.</p>
-        <p class="ai-note-ja">本サイトは、AIとともに知を編むための実験です。すべてのページは人間の監修のもとでAIが執筆しており、通常の事典よりも、あえてゆるやかな姿勢で取り組んでいます。</p>
-        <p>機械が書いた文章であるため、細部には、断定的な物言いや誇張、論理の飛躍といった、AIによる書き物にありがちな欠点が残っています。芸術の歴史のように大きな主題では、公開前にすべてを直しきることはできません。そこで私たちは、ページを批評し、そのつど手を入れながら、少しずつ進めています。</p>
+        <p class="ai-note-ja">本サイトは、AIとともに知識をまとめてみる実験です。すべてのページは人間の監修のもとでAIが執筆しており、通常の事典よりも、あえてゆるやかな姿勢で取り組んでいます。</p>
+        <p>私たちはAIが書いたものを読み、そこに新しい視点や知識を見つけ、そのうえで疑い、問い直します。この作業自体が、この取り組みの一部であり、私たちが学んでいることの一部でもあります。機械が書いた文章であるため、細部には、断定的な物言いや誇張、論理の飛躍といった、AIによる書き物にありがちな欠点が残っています。芸術の歴史のように大きな主題では、公開前にすべてを直しきることはできません。そこで私たちは、ページを批評し、そのつど手を入れながら、少しずつ進めています。</p>
         <p>あらゆる歴史の記述と同じように、これらの文章は誤りや偏り、特定の視点を含むことがあります。最終的な結論ではなく、出発点としてお読みください。</p>
         <p>また、できるだけ広く多様な視点を扱うよう努めていますが、内容は西洋と日本の歴史に偏っています。これは人間の編集者の知識と及ぶ範囲によるものであり、何が重要かについての判断を示すものではありません。</p>
       </div>
@@ -60,14 +62,35 @@ function splitTitle(title: string): { en: string; ja: string } {
       </div>
     </header>
 
-    <h2 class="browse-head">All essays · {entries.length} · recently edited first</h2>
-    <ul class="browse">
+    <div class="browse-head-row">
+      <h2 class="browse-head">All essays · {entries.length}</h2>
+      <div class="browse-controls">
+        <div class="sort-control">
+          <span class="sort-label">Order</span>
+          <button class="sort-opt" data-sort="random">Random</button>
+          <span class="sort-sep">·</span>
+          <button class="sort-opt" data-sort="recent">Recently edited</button>
+        </div>
+        {editor && (
+        <div class="draft-filter" id="draft-filter">
+          <button class="draft-filter-opt active" data-filter="all">All</button>
+          <span class="draft-filter-sep">·</span>
+          <button class="draft-filter-opt" data-filter="published">Published</button>
+          <span class="draft-filter-sep">·</span>
+          <button class="draft-filter-opt" data-filter="drafts">Drafts ({draftCount})</button>
+        </div>
+        )}
+      </div>
+    </div>
+    <ul class="browse" id="browse-list">
       {entries.map((a) => {
         const { en, ja } = splitTitle(a.title);
         return (
-          <li class="browse-item">
+          <li class="browse-item" data-draft={a.draft ? 'true' : 'false'}>
             <a href={`${base}/articles/${a.slug}`}>
-              <span class="browse-title">{en}{ja && <span class="ja">{ja}</span>}</span>
+              <span class="browse-title">
+                {a.draft && <span class="draft-badge">Draft</span>} {en}{ja && <span class="ja">{ja}</span>}
+              </span>
               <span class="browse-summary">{a.summary}</span>
               {a.summaryJa && <span class="browse-summary browse-summary-ja">{a.summaryJa}</span>}
               {a.updated && <span class="browse-date">Updated {a.updated}</span>}
@@ -76,6 +99,64 @@ function splitTitle(title: string): { en: string; ja: string } {
         );
       })}
     </ul>
+    <!--
+      Sort order. The list is rendered most-recently-edited first, so that order survives
+      without JS; this runs inline (before paint) to shuffle when the mode is random,
+      which is the default. The choice is remembered per visitor.
+    -->
+    <script is:inline>
+      (function () {
+        var list = document.getElementById('browse-list');
+        if (!list) return;
+        var KEY = 'browse-sort';
+        var byRecent = Array.prototype.slice.call(list.children); // server order
+        var mode = localStorage.getItem(KEY) === 'recent' ? 'recent' : 'random';
+
+        function render(m) {
+          var items = byRecent.slice();
+          if (m === 'random') {
+            for (var i = items.length - 1; i > 0; i--) {
+              var j = Math.floor(Math.random() * (i + 1));
+              var t = items[i]; items[i] = items[j]; items[j] = t;
+            }
+          }
+          for (var k = 0; k < items.length; k++) list.appendChild(items[k]);
+          var opts = document.querySelectorAll('.sort-opt');
+          for (var n = 0; n < opts.length; n++) {
+            opts[n].classList.toggle('active', opts[n].getAttribute('data-sort') === m);
+          }
+        }
+
+        render(mode);
+
+        document.addEventListener('click', function (e) {
+          var btn = e.target && e.target.closest ? e.target.closest('.sort-opt') : null;
+          if (!btn) return;
+          mode = btn.getAttribute('data-sort');
+          localStorage.setItem(KEY, mode);
+          render(mode); // clicking Random again reshuffles
+        });
+      })();
+    </script>
+    <!-- Draft filter (editor mode). No-ops on the public site, where #draft-filter is absent. -->
+    <script>
+      const list = document.getElementById('browse-list');
+      const filter = document.getElementById('draft-filter');
+      if (list && filter) {
+        filter.addEventListener('click', (e) => {
+          const btn = (e.target as HTMLElement).closest('.draft-filter-opt') as HTMLElement | null;
+          if (!btn) return;
+          filter.querySelectorAll('.draft-filter-opt').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          const mode = btn.getAttribute('data-filter');
+          list.querySelectorAll<HTMLElement>('.browse-item').forEach((li) => {
+            const isDraft = li.getAttribute('data-draft') === 'true';
+            const show = mode === 'all' || (mode === 'drafts' ? isDraft : !isDraft);
+            li.style.display = show ? '' : 'none';
+          });
+        });
+      }
+    </script>
   </div>
 </BaseLayout>
 
@@ -109,10 +190,36 @@ function splitTitle(title: string): { en: string; ja: string } {
   }
   .chip:hover { color: var(--fg); border-color: #bbb; }
 
+  .browse-head-row {
+    display: flex; justify-content: space-between; align-items: baseline;
+    flex-wrap: wrap; gap: 0.5rem 1rem; margin-bottom: 0.5rem;
+  }
   .browse-head {
     font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em;
-    color: var(--fg-muted); font-weight: 600; margin-bottom: 0.5rem;
+    color: var(--fg-muted); font-weight: 600; margin-bottom: 0;
   }
+  .browse-controls { display: flex; align-items: baseline; gap: 1.1rem; flex-wrap: wrap; }
+  .sort-control { display: flex; align-items: baseline; gap: 0.4rem; font-family: var(--font-sans); }
+  .sort-label {
+    font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--fg-muted); margin-right: 0.15rem;
+  }
+  .sort-opt {
+    background: none; border: none; cursor: pointer; padding: 0;
+    font-family: inherit; font-size: 0.75rem; color: var(--fg-muted);
+  }
+  .sort-opt:hover { color: var(--fg); }
+  .sort-opt.active { color: var(--fg); font-weight: 600; }
+  .sort-sep { color: #ccc; }
+
+  .draft-filter { display: flex; align-items: baseline; gap: 0.4rem; font-family: var(--font-sans); }
+  .draft-filter-opt {
+    background: none; border: none; cursor: pointer; padding: 0;
+    font-size: 0.75rem; color: var(--fg-muted);
+  }
+  .draft-filter-opt:hover { color: var(--editor); }
+  .draft-filter-opt.active { color: var(--editor); font-weight: 600; }
+  .draft-filter-sep { color: #ccc; }
   .browse { list-style: none; }
   .browse-item { padding: 1.4rem 0; border-top: 1px solid var(--border); }
   .browse-item a { color: var(--fg); display: block; }

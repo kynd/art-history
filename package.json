@@ -6,7 +6,8 @@
     "build:index": "node scripts/build-index.mjs",
     "related": "node scripts/related.mjs",
     "dev": "astro dev",
-    "reindex": "npm run build:index",
+    "reindex": "INCLUDE_DRAFTS=1 node scripts/build-index.mjs",
+    "reindex:public": "node scripts/build-index.mjs",
     "build": "npm run build:index && astro build && touch dist/.nojekyll",
     "preview": "astro preview"
   },

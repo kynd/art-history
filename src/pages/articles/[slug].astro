@@ -6,12 +6,16 @@ import { fileURLToPath } from 'node:url';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
-  return articles.map((doc) => ({
+  // Public build (astro build) leaves draft pages out entirely; editor mode (astro dev)
+  // builds them so they can be reviewed locally.
+  const visible = import.meta.env.DEV ? articles : articles.filter((a) => !a.data.draft);
+  return visible.map((doc) => ({
     params: { slug: doc.slug },
     props: { doc },
   }));
 }
 
+const editor = import.meta.env.DEV;
 const { doc } = Astro.props;
 const { Content } = await doc.render();
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
@@ -42,6 +46,13 @@ const updatedStr = fmtDate(doc.data.updated);
   <div class="article-shell">
     <article class="prose">
       <p class="back"><a href={base || '/'}>← All essays</a></p>
+      {editor && doc.data.draft && <div class="draft-banner">✎ Draft — visible only in editor mode, not on the public site.</div>}
+      {editor && doc.data.editorNote && (
+        <aside class="editor-note">
+          <span class="editor-note-label">Editor's note</span>
+          <p>{doc.data.editorNote}</p>
+        </aside>
+      )}
       <h1 class="page-title">
         <span class="title-en">{titleEn}</span>
         {titleJa && <span class="title-ja">{titleJa}</span>}

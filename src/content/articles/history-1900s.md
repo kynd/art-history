@@ -27,11 +27,11 @@ The Boxer Rebellion (1900) saw an international coalition suppress an anti-forei
 ## Japan
 ## 日本
 
-Japan's decisive victory over Russia in 1905 made it the first Asian power in modern times to defeat a European empire — a landmark that electrified anti-colonial movements across Asia. Secured by the Anglo-Japanese Alliance (1902), Japan tightened its grip on Korea, imposing a protectorate in 1905 as a prelude to formal annexation. Rapid industrialization at home confirmed the success of Meiji-era modernization.
+Japan's decisive victory over Russia in 1905 made it the first Asian power in modern times to defeat a European empire — a landmark that encouraged anti-colonial movements across Asia. Secured by the Anglo-Japanese Alliance (1902), Japan tightened its grip on Korea, imposing a protectorate in 1905 as a prelude to formal annexation. Rapid industrialization at home confirmed the success of Meiji-era modernization.
 
 <!-- -->
 
-1905年のロシアに対する決定的な勝利によって、日本は近代においてヨーロッパの帝国を打ち破った最初のアジアの大国となりました—アジア全域の反植民地運動を奮い立たせた画期的な出来事です。日英同盟（1902年）に支えられ、日本は朝鮮への支配を強め、1905年には保護国化を押しつけて、正式な併合への布石としました。国内での急速な工業化は、明治期の近代化の成功を裏づけました。
+1905年のロシアに対する決定的な勝利によって、日本は近代においてヨーロッパの帝国を打ち破った最初のアジアの大国となりました—アジア全域の反植民地運動を後押しした画期的な出来事です。日英同盟（1902年）に支えられ、日本は朝鮮への支配を強め、1905年には保護国化を押しつけて、正式な併合への布石としました。国内での急速な工業化は、明治期の近代化の成功を裏づけました。
 
 ---
 

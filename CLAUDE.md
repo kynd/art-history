@@ -71,6 +71,14 @@ English paragraph.
   a **meaningful content edit** to an existing article, bump its `updated` to today (do NOT bump it
   for pure typo/wording/formatting sweeps). The article page shows `updated` under the title, and
   the homepage lists essays **most-recently-edited first**.
+- **Editor mode vs public mode.** Editor mode = local `astro dev` (`import.meta.env.DEV`); public
+  mode = the deployed build. Frontmatter `draft: true` marks an unpublished page: it is built and
+  indexed ONLY in editor mode and is **stripped entirely** from the public build (no page, not in
+  `search-index.json`, no leak). Frontmatter `editorNote: "…"` shows a pink note box in editor mode
+  only. Run **`npm run reindex`** (sets `INCLUDE_DRAFTS=1`) so drafts appear locally; `npm run build`
+  excludes them. In editor mode a pink banner shows, drafts carry a pink "Draft" badge, and the
+  homepage gains an All / Published / Drafts filter. When a draft is ready, set `draft: false` (or
+  remove it) and bump `updated`.
 
 ### 2. Content depth (history & art essays)
 

@@ -13,6 +13,11 @@ const articles = defineCollection({
     // The article page shows `updated`; the homepage sorts by it.
     created: z.coerce.date().optional(),
     updated: z.coerce.date().optional(),
+    // Editor-mode fields. `draft: true` pages are built and indexed ONLY in editor mode
+    // (local `astro dev`), never in the public build. `editorNote` is shown only in editor
+    // mode. Both are stripped from the deployed site so nothing leaks.
+    draft: z.boolean().default(false),
+    editorNote: z.string().optional(),
   }),
 });
 

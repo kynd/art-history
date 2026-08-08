@@ -16,22 +16,22 @@ Edgar Degas (1834–1917) painted dancers, racehorses, and women at their toilet
 ## Life and path
 ## 歩み
 
-Born into a well-off Parisian family, Degas trained in the classical tradition and revered Ingres's draftsmanship all his life. He helped organize the Impressionist exhibitions and showed with the group, yet he rejected the label, preferring "Realist" or "Independent," and worked mostly indoors — in the studio, from memory and studies, rather than *en plein air*. Where [Monet](/articles/claude-monet) chased outdoor light, Degas pursued the artificial light and choreographed bodies of the theatre, the racetrack, and the rehearsal room.
+Degas was born into a well-off Parisian family. He trained in the classical tradition and revered Ingres's draftsmanship all his life. He helped organize the Impressionist exhibitions and showed with the group, yet he rejected the label, preferring "Realist" or "Independent," and worked mostly indoors — in the studio, from memory and studies, rather than *en plein air*. Where [Monet](/articles/claude-monet) chased outdoor light, Degas pursued the artificial light and choreographed bodies of the theatre, the racetrack, and the rehearsal room.
 
 <!-- -->
 
-裕福なパリの家庭に生まれたドガは、古典の伝統のなかで学び、生涯アングルの素描を敬いました。彼は印象派の展覧会の開催を助け、グループとともに出品しましたが、その呼び名を拒み、「レアリスト」あるいは「アンデパンダン（独立）」を好みました。そして、戸外ではなく、主に屋内で——アトリエで、記憶と習作から——制作します。[モネ](/articles/claude-monet)が戸外の光を追ったのに対し、ドガは劇場や競馬場、稽古場の、人工の光と振り付けられた身体を追いました。
+ドガは裕福なパリの家庭に生まれました。古典の伝統のなかで学び、生涯アングルの素描を敬いました。彼は印象派の展覧会の開催を助け、グループとともに出品しましたが、その呼び名を拒み、「レアリスト」あるいは「アンデパンダン（独立）」を好みました。そして、戸外ではなく、主に屋内で—アトリエで、記憶と習作から—制作します。[モネ](/articles/claude-monet)が戸外の光を追ったのに対し、ドガは劇場や競馬場、稽古場の、人工の光と振り付けられた身体を追いました。
 
 ---
 
-## Method: the constructed snapshot
-## 方法——構築されたスナップショット
+## The constructed snapshot
+## 構築されたスナップショット
 
 Degas's compositions look casual and are anything but. He cuts a dancer off at the edge, pushes the main figure to one corner, tips the floor toward the viewer, and leaves great diagonal sweeps of empty space — all to catch the off-balance immediacy of a real moment. These devices came from two modern sources: the framing and instantaneity of the **photograph**, and the flat, asymmetrical space and bold cropping of Japanese **ukiyo-e** prints, then flooding into Paris. He borrowed the camera's accidental eye but rebuilt it by hand, from countless drawings, so that spontaneity became a matter of design.
 
 <!-- -->
 
-ドガの構図は、何気なく見えて、まったくそうではありません。踊り子を画面の端で断ち切り、主役を一隅へ押しやり、床を鑑賞者のほうへ傾け、対角線を描く大きな空白を残します——すべては、現実の一瞬の、不安定で直接的な感触を捉えるためです。これらの手立ては、二つの近代的な源から来ています。**写真**の枠取りと瞬間性、そして当時パリに流れ込んでいた日本の**浮世絵**版画の、平らで非対称な空間と大胆なトリミングです。彼はカメラの偶然の眼を借りながら、それを無数の素描から手で組み立て直し、自発性を「設計」の問題へと変えました。
+ドガの構図は、何気なく見えて、まったくそうではありません。踊り子を画面の端で断ち切り、主役を一隅へ押しやり、床を鑑賞者のほうへ傾け、対角線を描く大きな空白を残します—すべては、現実の一瞬の、不安定で直接的な感触を捉えるためです。これらの手立ては、二つの近代的な源から来ています。**写真**の枠取りと瞬間性、そして当時パリに流れ込んでいた日本の**浮世絵**版画の、平らで非対称な空間と大胆なトリミングです。彼はカメラの偶然の眼を借りながら、それを無数の素描から手で組み立て直し、自発性を「設計」の問題へと変えました。
 
 ---
 
@@ -53,7 +53,7 @@ Degas shows the Impressionist pivot at its most deliberate: not an abandonment o
 
 <!-- -->
 
-ドガは、印象派の転回を最も意図的な形で示します。それは素描の放棄ではなく、カメラと版画という近代の画像世界から組み立てられた、新しい「見ることの文法」でした。彼の切り取られ、中心を外した枠取りは、のちの絵画が——そして写真や映画が——当然のものとして受け取ることになる、共有された視覚言語の一部になります。彼は[1900年代](/articles/art-1900s)で概観される若い前衛に属し、[写真以後の絵画](/articles/painting-after-photography)という長い物語の、始まりの近くに立っています。
+ドガは、印象派の転回を最も意図的な形で示します。それは素描の放棄ではなく、カメラと版画という近代の画像世界から組み立てられた、新しい「見ることの文法」でした。彼の切り取られ、中心を外した枠取りは、のちの絵画が—そして写真や映画が—当然のものとして受け取ることになる、共有された視覚言語の一部になります。彼は[1900年代](/articles/art-1900s)で概観される若い前衛に属し、[写真以後の絵画](/articles/painting-after-photography)という長い物語の、始まりの近くに立っています。
 
 <ol class="footnotes">
 <li>Edgar Degas — Musée d'Orsay. <a href="https://www.musee-orsay.fr/en/artists/edgar-degas" target="_blank" rel="noopener">Artist page — Musée d'Orsay</a></li>

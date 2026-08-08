@@ -6,6 +6,8 @@ export interface Props {
 }
 const { title } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+// Editor mode = local `astro dev`. The deployed (built) site is always public mode.
+const editor = import.meta.env.DEV;
 
 // Flat list of auto-link targets for the in-prose term linker.
 // Each: { aliases: string[], query: string, person?: boolean }  (label is always an alias)
@@ -190,13 +192,52 @@ const termTargets = [
     .site-footer a { color: var(--fg-muted); }
     .site-footer a:hover { color: var(--fg); opacity: 1; }
 
+    /* ── Editor mode (local dev only; never on the deployed site) ──── */
+    :root { --editor: #d6336c; --editor-bg: #fff0f4; --editor-border: #f2aec5; }
+    .editor-badge {
+      position: fixed; top: 0; left: 0; right: 0; height: 26px; z-index: 200;
+      display: flex; align-items: center; justify-content: center;
+      background: var(--editor); color: #fff;
+      font-family: var(--font-sans); font-size: 0.72rem; letter-spacing: 0.02em;
+    }
+    .editor-mode .topbar { top: 26px; }
+    .editor-mode .main-wrap { margin-top: calc(var(--header-height) + 26px); }
+    /* Draft marker — a small reddish-pink pill */
+    .draft-badge {
+      display: inline-block; vertical-align: middle;
+      font-family: var(--font-sans); font-size: 0.62rem; font-weight: 600;
+      letter-spacing: 0.06em; text-transform: uppercase;
+      color: var(--editor); background: var(--editor-bg);
+      border: 1px solid var(--editor-border); border-radius: 4px;
+      padding: 0.05rem 0.4rem;
+    }
+    /* Draft banner on an article page */
+    .draft-banner {
+      font-family: var(--font-sans); font-size: 0.82rem; color: var(--editor);
+      background: var(--editor-bg); border: 1px solid var(--editor-border);
+      border-radius: 6px; padding: 0.5rem 0.8rem; margin-bottom: 1.5rem;
+    }
+    /* Editor's note box */
+    .editor-note {
+      font-family: var(--font-sans); font-size: 0.85rem; line-height: 1.6;
+      color: #7a2547; background: var(--editor-bg);
+      border: 1px solid var(--editor-border); border-left: 3px solid var(--editor);
+      border-radius: 6px; padding: 0.7rem 0.9rem; margin: 0 0 1.75rem;
+    }
+    .editor-note .editor-note-label {
+      display: block; font-size: 0.62rem; font-weight: 700; letter-spacing: 0.08em;
+      text-transform: uppercase; color: var(--editor); margin-bottom: 0.3rem;
+    }
+    .editor-note p { margin: 0.3rem 0 0; }
+
     @media (max-width: 680px) {
       .topbar { flex-wrap: wrap; padding: 0.5rem 1rem; gap: 0.5rem 0.9rem; }
       .search-wrap { order: 3; flex-basis: 100%; }
     }
   </style>
 </head>
-<body>
+<body class={editor ? 'editor-mode' : ''}>
+  {editor && <div class="editor-badge">✎ Editor mode — drafts &amp; notes are visible here, never on the public site</div>}
   <header class="topbar">
     <div class="topbar-left">
       <nav class="topnav">
@@ -305,8 +346,9 @@ const termTargets = [
         const { en, ja } = splitTitle(a.title);
         const score = a.score != null ? `<div class="result-score">${Math.min(99, Math.round(a.score * 100))}% match</div>` : '';
         const summaryJa = a.summaryJa ? `<div class="result-summary result-summary-ja">${a.summaryJa}</div>` : '';
+        const draftBadge = a.draft ? '<span class="draft-badge">Draft</span> ' : '';
         return `<li class="result"><a class="result-link" href="${base}/articles/${a.slug}">
-          <div class="result-title">${en}${ja ? `<span class="ja">${ja}</span>` : ''}</div>
+          <div class="result-title">${draftBadge}${en}${ja ? `<span class="ja">${ja}</span>` : ''}</div>
           <div class="result-summary">${a.summary}</div>${summaryJa}${score}
         </a></li>`;
       }).join('');

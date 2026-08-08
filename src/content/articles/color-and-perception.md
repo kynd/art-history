@@ -16,11 +16,11 @@ Color in modern painting became less a property of objects than an event in perc
 ## Optical mixing
 ## 視覚混合
 
-The Impressionists and, more systematically, the Neo-Impressionists placed unmixed dabs of pigment side by side so that the eye would blend them at a distance. Color was no longer laid down as a fact but assembled in perception, making the viewer's retina part of the painting's mechanism. Light itself, rather than the object it fell on, became the subject.
+The Impressionists and, more systematically, the Neo-Impressionists placed unmixed dabs of pigment side by side so that the eye would blend them at a distance. Color was no longer applied as a fact but assembled in perception, making the viewer's retina part of the painting. Light itself, rather than the object it fell on, became the subject.
 
 <!-- -->
 
-印象派、そしてより体系的には新印象派は、混ぜ合わせていない絵の具の点を並置し、離れて見る目がそれらを混ぜ合わせるようにしました。色彩はもはや事実として置かれるのではなく、知覚のなかで組み立てられ、鑑賞者の網膜が絵画の仕組みの一部となりました。光が当たる対象ではなく、光そのものが主題となりました。
+印象派、そしてより体系的には新印象派は、混ぜ合わせていない絵の具の点を並置し、離れて見る目がそれらを混ぜ合わせるようにしました。色彩はもはや事実として置かれるのではなく、知覚のなかで組み立てられ、鑑賞者の網膜が絵画の一部となりました。光が当たる対象ではなく、光そのものが主題となりました。
 
 ---
 

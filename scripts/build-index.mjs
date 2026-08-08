@@ -83,12 +83,17 @@ async function main() {
     return Array.from(out.data);
   };
 
+  // Editor mode (INCLUDE_DRAFTS=1, used by `npm run reindex`) indexes draft pages too;
+  // the public build (`npm run build`) leaves them out entirely.
+  const includeDrafts = process.env.INCLUDE_DRAFTS === '1';
   const files = (await readdir(ARTICLES_DIR)).filter((f) => f.endsWith('.md'));
   const articles = [];
   for (const file of files) {
     const raw = await readFile(join(ARTICLES_DIR, file), 'utf8');
     const { data, body } = parse(raw);
     const slug = file.replace(/\.md$/, '');
+    const draft = data.draft === 'true' || data.draft === true;
+    if (draft && !includeDrafts) continue;
     const { en: summary, ja: summaryJa } = summaries(body);
     const title = data.title || slug;
     const topics = data.topics || [];
@@ -111,7 +116,7 @@ async function main() {
     const created = data.created || null;
     const updated = data.updated || created || null;
     const mtime = (await stat(join(ARTICLES_DIR, file))).mtimeMs;
-    articles.push({ slug, title, summary, summaryJa, topics, vector, text, created, updated, mtime });
+    articles.push({ slug, title, summary, summaryJa, topics, vector, text, created, updated, mtime, draft });
   }
 
   // Precompute top-N related per article (cosine over article vectors).
