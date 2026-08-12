@@ -13,6 +13,17 @@ The 2010s were the decade in which the digital transformation became total — s
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+The decade's central paradox was that unprecedented connection produced deepening division. Social media, designed to link people, also amplified misinformation, outrage, and political polarization, while globalization's uneven benefits fed a backlash that powered populist and nationalist movements. Simultaneously, the relative decline of Western dominance and the rise of an assertive China shifted the world toward a more contested, multipolar order — with climate change looming as the shared crisis all would eventually have to face.
+
+<!-- -->
+
+この十年の中心的な逆説は、前例のない結びつきが深まる分断を生み出したことでした。人々を結びつけるよう設計されたソーシャルメディアは、誤情報、怒り、そして政治的分極化をも増幅し、一方でグローバル化の偏った恩恵が、ポピュリズム的・ナショナリズム的な運動を駆動する反発を育てます。同時に、西側の優位の相対的な衰退と強硬な中国の台頭が、世界をより争われた多極的な秩序へと移しました—そして気候変動が、いずれ誰もが直面せざるをえない共有の危機として立ちはだかっていました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ China under Xi Jinping grew markedly more assertive abroad and centralized at ho
 <!-- -->
 
 習近平のもとの中国は、対外的に著しく強硬になり、国内では中央集権化を進め、一帯一路構想を打ち出してアメリカの優位に挑みました。大衆運動が急増します—香港の民主化を求める抗議から、グローバルな#MeTooの糾弾、そして若者の気候ストライキまで。右派と左派のポピュリズムが、多くの民主主義国で急伸しました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-The decade's central paradox was that unprecedented connection produced deepening division. Social media, designed to link people, also amplified misinformation, outrage, and political polarization, while globalization's uneven benefits fed a backlash that powered populist and nationalist movements. Simultaneously, the relative decline of Western dominance and the rise of an assertive China shifted the world toward a more contested, multipolar order — with climate change looming as the shared crisis all would eventually have to face.
-
-<!-- -->
-
-この十年の中心的な逆説は、前例のない結びつきが深まる分断を生み出したことでした。人々を結びつけるよう設計されたソーシャルメディアは、誤情報、怒り、そして政治的分極化をも増幅し、一方でグローバル化の偏った恩恵が、ポピュリズム的・ナショナリズム的な運動を駆動する反発を育てます。同時に、西側の優位の相対的な衰退と強硬な中国の台頭が、世界をより争われた多極的な秩序へと移しました—そして気候変動が、いずれ誰もが直面せざるをえない共有の危機として立ちはだかっていました。
 
 ---
 

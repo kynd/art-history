@@ -13,6 +13,17 @@ The 1980s saw the Cold War reach its climax and sudden thaw, alongside a global 
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Two great forces defined the decade. First, the neoliberal turn — a response to the 1970s' stagflation — reshaped economies toward markets, deregulation, and globalization. Second, the internal exhaustion of the Soviet system, unable to match Western economic dynamism or sustain its arms spending, led Gorbachev to reforms that, combined with popular pressure, brought the whole edifice down. Together these forces set the stage for a globalized, market-oriented post–Cold War world.
+
+<!-- -->
+
+二つの大きな力がこの十年を規定しました。第一に、新自由主義への転回—1970年代のスタグフレーションへの応答—が、経済を市場、規制緩和、そしてグローバル化へと作り変えます。第二に、西側の経済的な活力に太刀打ちできず、その軍事支出も維持できなかったソ連体制の内的な疲弊が、ゴルバチョフを改革へと導き、それが民衆の圧力と結びついて、体制全体を崩壊させました。これらの力が相まって、グローバル化した、市場志向の冷戦後の世界の舞台を整えました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ The Iran–Iraq War ground on through most of the decade. The AIDS epidemic emer
 <!-- -->
 
 イラン・イラク戦争は十年の大半にわたって続きました。エイズの流行がグローバルな保健上の危機として現れます。チェルノブイリ原子力災害（1986年）はソ連の衰退を露呈させ、原子力への信頼を揺るがしました。ラテンアメリカは債務危機に苦しみ、ポーランドの連帯運動が共産主義への平和的な抵抗を先駆けました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Two great forces defined the decade. First, the neoliberal turn — a response to the 1970s' stagflation — reshaped economies toward markets, deregulation, and globalization. Second, the internal exhaustion of the Soviet system, unable to match Western economic dynamism or sustain its arms spending, led Gorbachev to reforms that, combined with popular pressure, brought the whole edifice down. Together these forces set the stage for a globalized, market-oriented post–Cold War world.
-
-<!-- -->
-
-二つの大きな力がこの十年を規定しました。第一に、新自由主義への転回—1970年代のスタグフレーションへの応答—が、経済を市場、規制緩和、そしてグローバル化へと作り変えます。第二に、西側の経済的な活力に太刀打ちできず、その軍事支出も維持できなかったソ連体制の内的な疲弊が、ゴルバチョフを改革へと導き、それが民衆の圧力と結びついて、体制全体を崩壊させました。これらの力が相まって、グローバル化した、市場志向の冷戦後の世界の舞台を整えました。
 
 ---
 

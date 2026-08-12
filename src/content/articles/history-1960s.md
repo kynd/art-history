@@ -13,6 +13,17 @@ The 1960s were a decade of upheaval, in which a rising postwar generation challe
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+A large, educated, affluent postwar generation — the baby boomers — provided the human energy for the decade's movements, amplified by television, which brought Vietnam, civil rights marches, and protests into living rooms worldwide. The Cold War set the stakes, but the era's defining dynamic was a broad revolt against inherited authority, linking anti-war, civil rights, feminist, and anti-colonial struggles into a shared spirit of liberation.
+
+<!-- -->
+
+大規模で、教育を受け、豊かな戦後世代—ベビーブーマー—が、この十年の運動に人的なエネルギーを供給しました。それはテレビによって増幅され、テレビはベトナム、公民権の行進、そして抗議を世界中の茶の間に届けました。冷戦が賭け金を定めましたが、この時代を特徴づける力学は、受け継がれた権威に対する広範な反乱であり、反戦、公民権、フェミニズム、反植民地の闘争を、解放という共有された精神へと結びつけました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ The 1960 Anpo protests against the US security treaty were among the largest in 
 <!-- -->
 
 1960年は「アフリカの年」であり、十七の植民地が独立を果たしました。中国の文化大革命（1966年〜）は十年にわたる激動を解き放ち、中ソ対立は共産主義の世界を分裂させます。第二波フェミニズムと環境意識（レイチェル・カーソンの『沈黙の春』（1962年）に刺激された）が、長く続く運動として現れました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-A large, educated, affluent postwar generation — the baby boomers — provided the human energy for the decade's movements, amplified by television, which brought Vietnam, civil rights marches, and protests into living rooms worldwide. The Cold War set the stakes, but the era's defining dynamic was a broad revolt against inherited authority, linking anti-war, civil rights, feminist, and anti-colonial struggles into a shared spirit of liberation.
-
-<!-- -->
-
-大規模で、教育を受け、豊かな戦後世代—ベビーブーマー—が、この十年の運動に人的なエネルギーを供給しました。それはテレビによって増幅され、テレビはベトナム、公民権の行進、そして抗議を世界中の茶の間に届けました。冷戦が賭け金を定めましたが、この時代を特徴づける力学は、受け継がれた権威に対する広範な反乱であり、反戦、公民権、フェミニズム、反植民地の闘争を、解放という共有された精神へと結びつけました。
 
 ---
 

@@ -13,6 +13,17 @@ The 2000s were defined by the September 11 attacks and the "War on Terror" they 
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Two dynamics dominated. Geopolitically, 9/11 redirected American power toward the Middle East for a generation, with costly and destabilizing consequences. Economically, cheap credit and financial deregulation inflated a housing bubble whose collapse in 2008 exposed the fragility of a globally interconnected financial system. Beneath both, the twin rises of China and of digital technology were steadily redistributing economic and communicative power.
+
+<!-- -->
+
+二つの力学が支配しました。地政学的には、9・11がアメリカの力を一世代にわたって中東へと振り向け、大きな代償と不安定化をもたらします。経済的には、安価な信用と金融の規制緩和が住宅バブルを膨らませ、その2008年の崩壊が、グローバルに相互連結した金融システムの脆さを露呈させました。その両方の底で、中国とデジタル技術という二つの台頭が、経済的・通信的な力を着実に再配分しつつありました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ China joined the World Trade Organization in 2001 and became the world's manufac
 <!-- -->
 
 中国は2001年に世界貿易機関（WTO）に加盟して世界の製造の拠点となり、数億人を貧困から引き上げ、グローバルな貿易を作り変えました。2004年のインド洋大津波は二十三万人以上の命を奪います。「BRICs」（ブラジル、ロシア、インド、中国）の台頭は、より多極的な経済への移行を告げました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Two dynamics dominated. Geopolitically, 9/11 redirected American power toward the Middle East for a generation, with costly and destabilizing consequences. Economically, cheap credit and financial deregulation inflated a housing bubble whose collapse in 2008 exposed the fragility of a globally interconnected financial system. Beneath both, the twin rises of China and of digital technology were steadily redistributing economic and communicative power.
-
-<!-- -->
-
-二つの力学が支配しました。地政学的には、9・11がアメリカの力を一世代にわたって中東へと振り向け、大きな代償と不安定化をもたらします。経済的には、安価な信用と金融の規制緩和が住宅バブルを膨らませ、その2008年の崩壊が、グローバルに相互連結した金融システムの脆さを露呈させました。その両方の底で、中国とデジタル技術という二つの台頭が、経済的・通信的な力を着実に再配分しつつありました。
 
 ---
 

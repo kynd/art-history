@@ -13,6 +13,17 @@ The 1990s opened with the collapse of the Soviet Union and the apparent triumph 
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+The Soviet collapse removed the century's organizing conflict, and in its absence globalization surged: trade, capital, and culture flowed across a world increasingly integrated by policy and technology. But the end of the Cold War also unfroze suppressed ethnic and nationalist tensions, producing the decade's wars. Beneath it all, the digital revolution began compounding — the same connectivity that powered globalization was laying the infrastructure for a transformation still unfolding.
+
+<!-- -->
+
+ソ連の崩壊は、この世紀を組織していた対立を取り除き、その不在のなかでグローバル化が急伸しました。貿易、資本、そして文化が、政策と技術によってますます統合される世界を越えて流れます。しかし冷戦の終わりは、抑え込まれていた民族的・ナショナリズム的な緊張をも解凍し、この十年の戦争を生み出しました。そのすべての底で、デジタル革命が複利的に増大し始めます—グローバル化を支えたのと同じ結びつきが、今なお展開しつつある変容の基盤を築きつつありました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ China's market reforms accelerated after 1992, launching decades of explosive gr
 <!-- -->
 
 中国の市場改革は1992年以降に加速し、数十年にわたる爆発的な成長を始動させました。アジア通貨危機（1997年）はこの地域の「虎」の経済を揺さぶります。香港は1997年に中国の主権下へと返還されました。十年の後半のドットコム・ブームは、新しいインターネット経済についての急上昇する楽観を駆動しました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-The Soviet collapse removed the century's organizing conflict, and in its absence globalization surged: trade, capital, and culture flowed across a world increasingly integrated by policy and technology. But the end of the Cold War also unfroze suppressed ethnic and nationalist tensions, producing the decade's wars. Beneath it all, the digital revolution began compounding — the same connectivity that powered globalization was laying the infrastructure for a transformation still unfolding.
-
-<!-- -->
-
-ソ連の崩壊は、この世紀を組織していた対立を取り除き、その不在のなかでグローバル化が急伸しました。貿易、資本、そして文化が、政策と技術によってますます統合される世界を越えて流れます。しかし冷戦の終わりは、抑え込まれていた民族的・ナショナリズム的な緊張をも解凍し、この十年の戦争を生み出しました。そのすべての底で、デジタル革命が複利的に増大し始めます—グローバル化を支えたのと同じ結びつきが、今なお展開しつつある変容の基盤を築きつつありました。
 
 ---
 

@@ -13,6 +13,17 @@ The 1930s were shaped by the Great Depression, the worst economic collapse in mo
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Economic collapse was the master cause: the Depression radicalized politics everywhere, made aggressive nationalism attractive, and left democracies too weakened and divided to confront rising dictators. The failure of the League of Nations and the policy of appeasement allowed Germany, Italy, and Japan to expand incrementally, each success emboldening the next. Ideological polarization — fascism versus communism versus liberal democracy — turned local conflicts like Spain's into global proxy struggles.
+
+<!-- -->
+
+経済崩壊こそが根本の原因でした。恐慌はいたるところで政治を先鋭化させ、攻撃的なナショナリズムを魅力的にし、民主主義国を、台頭する独裁者に立ち向かうにはあまりに弱く分裂した状態に置きました。国際連盟の失敗と宥和政策は、ドイツ、イタリア、日本が段階的に拡張することを許し、一つの成功が次を大胆にしていきます。イデオロギーの分極化—ファシズム対共産主義対自由民主主義—は、スペインのような局地的な紛争を、グローバルな代理闘争へと変えました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ Stalin consolidated totalitarian power in the USSR through forced collectivizati
 <!-- -->
 
 スターリンは、強制的な集団化、それがもたらした飢饉（ウクライナのホロドモールを含む）、そして1930年代後半の大粛清を通じて、ソ連における全体主義的権力を固めました。イタリアは1935年にエチオピアを侵略し、連盟の無力ぶりをいっそう露呈させます。植民地の独立運動、とりわけガンディー率いるインドの運動が力を増していきました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Economic collapse was the master cause: the Depression radicalized politics everywhere, made aggressive nationalism attractive, and left democracies too weakened and divided to confront rising dictators. The failure of the League of Nations and the policy of appeasement allowed Germany, Italy, and Japan to expand incrementally, each success emboldening the next. Ideological polarization — fascism versus communism versus liberal democracy — turned local conflicts like Spain's into global proxy struggles.
-
-<!-- -->
-
-経済崩壊こそが根本の原因でした。恐慌はいたるところで政治を先鋭化させ、攻撃的なナショナリズムを魅力的にし、民主主義国を、台頭する独裁者に立ち向かうにはあまりに弱く分裂した状態に置きました。国際連盟の失敗と宥和政策は、ドイツ、イタリア、日本が段階的に拡張することを許し、一つの成功が次を大胆にしていきます。イデオロギーの分極化—ファシズム対共産主義対自由民主主義—は、スペインのような局地的な紛争を、グローバルな代理闘争へと変えました。
 
 ---
 

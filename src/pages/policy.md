@@ -22,9 +22,13 @@ Art and World History is a collection of short, bilingual essays offering an acc
 
 We aim for a balanced, non-partisan perspective. We describe movements, events, and works rather than advocate for them; we present competing interpretations where they matter; and we avoid ideological, national, or aesthetic bias. When a subject is contested, we say so plainly instead of taking a side, and we try to explain why people held the views they did rather than judging them by today's standards.
 
+We also try not to mistake our own choices for facts about the field. When an essay picks a few artists to make a point, that is our editorial selection, not a ranking — so a page says "he appears in" that essay rather than calling him one of its "key figures." Any grouping we invent belongs to us, not to art history.
+
 <!-- -->
 
 私たちは、均衡のとれた、党派によらない視点を目指します。運動や出来事、作品を擁護するのではなく記述し、重要な場面では対立する解釈を併せて示し、思想的・国家的・美的な偏りを避けます。議論の分かれる主題では、どちらかに与するのではなく、その旨をはっきりと述べます。そして、今日の基準で断罪するのではなく、人々がなぜそう考えたのかを説明するよう努めます。
+
+また、自分たちの選択を、その分野の事実と取り違えないよう気をつけます。あるエッセイが論点を示すために数人の作家を取り上げるとき、それは私たちの編集上の選択であって、順位づけではありません。ですから各ページでは、その人物をエッセイの「中心人物」と呼ぶのではなく、「〜に登場します」と書きます。私たちが作ったまとまりは、美術史のものではなく、私たちのものです。
 
 ---
 

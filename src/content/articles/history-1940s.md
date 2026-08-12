@@ -13,6 +13,17 @@ The 1940s were dominated by the Second World War, the deadliest conflict in huma
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Fascist aggression and the failure of the 1930s to contain it made the war; the war's scale and technology then remade the world. The conflict bankrupted the European empires and accelerated decolonization; it produced the atomic bomb and thus the nuclear age; and it left the US and USSR as the only powers standing, their rival ideologies and security fears hardening into the Cold War almost immediately. The determination to prevent another such catastrophe drove the creation of the UN and new international institutions.
+
+<!-- -->
+
+ファシズムの侵略と、それを封じ込めることに1930年代が失敗したことが戦争を生み、戦争の規模と技術がやがて世界を作り変えました。この紛争はヨーロッパの帝国を破産させて脱植民地化を加速し、原子爆弾を、したがって核の時代を生み出し、アメリカとソ連を唯一立ち続ける大国として残しました。両者の対立するイデオロギーと安全保障上の恐れは、ほとんど即座に冷戦へと硬化していきます。もう一つのこうした破局を防ごうとする決意が、国連と新たな国際機関の創設を駆動しました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ Decolonization accelerated as war-weakened European powers lost their grip; Indi
 <!-- -->
 
 戦争で弱体化したヨーロッパ列強が支配力を失うなか、脱植民地化が加速しました。1947年のインドの独立と分離は数百万人を故郷から追いやります。ブレトン・ウッズ体制（1944年）とマーシャル・プラン（1948年）は、戦後経済のためのアメリカ主導の枠組みを打ち立てました。ニュルンベルク裁判は、人道に対する罪を訴追するという考えを先駆けました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Fascist aggression and the failure of the 1930s to contain it made the war; the war's scale and technology then remade the world. The conflict bankrupted the European empires and accelerated decolonization; it produced the atomic bomb and thus the nuclear age; and it left the US and USSR as the only powers standing, their rival ideologies and security fears hardening into the Cold War almost immediately. The determination to prevent another such catastrophe drove the creation of the UN and new international institutions.
-
-<!-- -->
-
-ファシズムの侵略と、それを封じ込めることに1930年代が失敗したことが戦争を生み、戦争の規模と技術がやがて世界を作り変えました。この紛争はヨーロッパの帝国を破産させて脱植民地化を加速し、原子爆弾を、したがって核の時代を生み出し、アメリカとソ連を唯一立ち続ける大国として残しました。両者の対立するイデオロギーと安全保障上の恐れは、ほとんど即座に冷戦へと硬化していきます。もう一つのこうした破局を防ごうとする決意が、国連と新たな国際機関の創設を駆動しました。
 
 ---
 

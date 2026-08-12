@@ -13,6 +13,17 @@ The 1910s were dominated by the First World War (1914–1918), a catastrophe tha
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Rigid alliance systems, militarized nationalism, and industrial arms races turned a regional crisis into a global war. The war then acted as an accelerant: it toppled the Russian, German, Austro-Hungarian, and Ottoman empires; it drew in colonial troops and raised anti-colonial expectations; and its punitive settlement created the grievances that fascism would later exploit. The Russian Revolution, itself a product of wartime collapse, split the century's politics into capitalist and communist camps.
+
+<!-- -->
+
+硬直した同盟の体系、軍事化されたナショナリズム、そして工業的な軍拡競争が、一地域の危機を世界戦争へと変えました。戦争はやがて加速装置として作用します。ロシア、ドイツ、オーストリア＝ハンガリー、オスマンの各帝国を倒し、植民地の兵士を巻き込んで反植民地の期待を高め、その懲罰的な講和はのちにファシズムが利用することになる不満を生み出しました。戦時の崩壊の産物であるロシア革命は、この世紀の政治を資本主義と共産主義の陣営へと分断しました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ The Mexican Revolution convulsed that country throughout the decade. The Easter 
 <!-- -->
 
 メキシコ革命はこの十年を通じて同国を揺るがし続けました。1916年のイースター蜂起はアイルランド独立運動を加速させます。オスマン帝国の崩壊にはアルメニア人虐殺（1915年）が伴いました。1918〜1919年のインフルエンザの大流行（「スペイン風邪」）は人類の三分の一に感染し、数千万人を死に至らしめて、戦争の死者数を上回りました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Rigid alliance systems, militarized nationalism, and industrial arms races turned a regional crisis into a global war. The war then acted as an accelerant: it toppled the Russian, German, Austro-Hungarian, and Ottoman empires; it drew in colonial troops and raised anti-colonial expectations; and its punitive settlement created the grievances that fascism would later exploit. The Russian Revolution, itself a product of wartime collapse, split the century's politics into capitalist and communist camps.
-
-<!-- -->
-
-硬直した同盟の体系、軍事化されたナショナリズム、そして工業的な軍拡競争が、一地域の危機を世界戦争へと変えました。戦争はやがて加速装置として作用します。ロシア、ドイツ、オーストリア＝ハンガリー、オスマンの各帝国を倒し、植民地の兵士を巻き込んで反植民地の期待を高め、その懲罰的な講和はのちにファシズムが利用することになる不満を生み出しました。戦時の崩壊の産物であるロシア革命は、この世紀の政治を資本主義と共産主義の陣営へと分断しました。
 
 ---
 

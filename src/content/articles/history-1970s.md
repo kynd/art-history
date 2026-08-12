@@ -13,6 +13,17 @@ The 1970s marked the end of the postwar boom and a turn toward uncertainty. Oil 
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Cheap energy had powered the postwar boom; the oil shocks abruptly ended it, exposing the industrial world's dependence on Middle Eastern oil and shifting economic and geopolitical weight toward oil producers. Stagflation discredited the prevailing Keynesian consensus and opened the door to the free-market revival of the 1980s. Meanwhile the US–China opening and the Iranian Revolution revealed a world no longer neatly divided into two Cold War blocs.
+
+<!-- -->
+
+安価なエネルギーが戦後の好況を支えていましたが、石油ショックはそれを突然に終わらせ、工業世界の中東の石油への依存を露呈させて、経済的・地政学的な重みを産油国へと移しました。スタグフレーションは支配的だったケインズ主義の合意の信用を失わせ、1980年代の自由市場の復活への扉を開きます。その一方で、米中の接近とイラン革命は、もはや二つの冷戦陣営にきれいに分割されてはいない世界を明らかにしました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ Nixon's 1972 visit to China began the normalization of US–China relations, res
 <!-- -->
 
 ニクソンの1972年の訪中は米中関係の正常化を始動させ、冷戦の構図を作り変えました。第四次中東戦争（1973年）は中東を再編します。カンボジアでは、1975年以降クメール・ルージュがジェノサイドを行いました。デタントは十年の半ばに超大国間の緊張を緩和しましたが、その後アフガニスタンがそれを再燃させました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Cheap energy had powered the postwar boom; the oil shocks abruptly ended it, exposing the industrial world's dependence on Middle Eastern oil and shifting economic and geopolitical weight toward oil producers. Stagflation discredited the prevailing Keynesian consensus and opened the door to the free-market revival of the 1980s. Meanwhile the US–China opening and the Iranian Revolution revealed a world no longer neatly divided into two Cold War blocs.
-
-<!-- -->
-
-安価なエネルギーが戦後の好況を支えていましたが、石油ショックはそれを突然に終わらせ、工業世界の中東の石油への依存を露呈させて、経済的・地政学的な重みを産油国へと移しました。スタグフレーションは支配的だったケインズ主義の合意の信用を失わせ、1980年代の自由市場の復活への扉を開きます。その一方で、米中の接近とイラン革命は、もはや二つの冷戦陣営にきれいに分割されてはいない世界を明らかにしました。
 
 ---
 

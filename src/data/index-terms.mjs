@@ -87,6 +87,7 @@ export const ARTISTS = [
   { label: 'Gerhard Richter', group: 'Fine art', aliases: ['Richter', 'リヒター'] },
   { label: 'Luc Tuymans', group: 'Fine art', aliases: ['Tuymans', 'タイマンス'] },
   { label: 'Raoul De Keyser', group: 'Fine art', aliases: ['De Keyser', 'デ・カイザー'] },
+  { label: 'Roger Raveel', group: 'Fine art', aliases: ['Raveel', 'ラヴェール'] },
   { label: 'Peter Doig', group: 'Fine art', aliases: ['Doig', 'ドイグ'] },
   { label: 'Elizabeth Peyton', group: 'Fine art', aliases: ['Peyton', 'ペイトン'] },
   { label: 'Michaël Borremans', group: 'Fine art', aliases: ['Borremans', 'ボレマンス'] },
@@ -228,6 +229,7 @@ export const KEYWORDS = [
   // ── Movements & styles ──────────────────────────────────────
   { label: 'Impressionism', group: 'Movements', aliases: ['Impressionist', '印象派'] },
   { label: 'New European Painting', group: 'Movements', aliases: ['ニュー・ヨーロピアン・ペインティング'] },
+  { label: 'Nieuwe Visie', query: 'Nieuwe Visie, the Flemish New Vision', group: 'Movements', aliases: ['ニュー・ヴィジョン'] },
   { label: 'Fauvism', group: 'Movements', aliases: ['Fauves', 'フォーヴィスム'] },
   { label: 'Expressionism', group: 'Movements', aliases: ['表現主義'] },
   { label: 'Cubism', group: 'Movements', aliases: ['キュビスム'] },
@@ -300,6 +302,7 @@ export const KEYWORDS = [
   { label: 'Institutional theory of art', query: 'the artworld and the institutional theory of art', group: 'Media & concepts', aliases: ['artworld', 'アートワールド', '芸術制度論'] },
   { label: 'Techne', query: 'techne, ars, and craft skill', group: 'Media & concepts', aliases: ['テクネー', 'アルス'] },
   { label: 'The Armory Show', query: 'the 1913 Armory Show', group: 'Media & concepts', aliases: ['Armory Show', 'アーモリー・ショー'] },
+  { label: 'documenta', query: 'documenta, the Kassel exhibition', group: 'Media & concepts', aliases: ['Documenta', 'ドクメンタ'] },
   { label: 'Degenerate art', query: 'degenerate art, Entartete Kunst', group: 'Media & concepts', aliases: ['Entartete Kunst', '退廃芸術'] },
 
   // ── History & society ───────────────────────────────────────

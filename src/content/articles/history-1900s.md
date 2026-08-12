@@ -13,6 +13,17 @@ The first decade of the twentieth century opened in an atmosphere of imperial co
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+Imperial rivalry, industrial capacity, and nationalism were the era's engines. The same industrial might that produced prosperity also produced ever-larger armies and navies — Britain and Germany's naval arms race being the clearest example. Japan's victory over Russia showed that industrialization, not race or geography, now determined power, a lesson that fueled both nationalism and anti-colonial hope.
+
+<!-- -->
+
+帝国間の対抗、工業力、そしてナショナリズムが、この時代のエンジンでした。繁栄を生み出したのと同じ工業力が、ますます巨大化する陸軍と海軍をも生み出します—英独の建艦競争はその最も明白な例です。日本のロシアに対する勝利は、いまや力を決するのは人種や地理ではなく工業化であることを示し、その教訓がナショナリズムと反植民地の希望の双方をかき立てました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ The Second Boer War ended in 1902 with British victory but at heavy moral and fi
 <!-- -->
 
 第二次ボーア戦争は1902年にイギリスの勝利で終わりましたが、道義的にも財政的にも大きな代償を伴いました。アメリカでは、革新主義の時代がセオドア・ローズヴェルトのもとで改革と独占禁止をもたらしました。工業化する世界の各地で労働運動と社会主義運動が成長し、アメリカ大陸への大量移民が人口構成を作り変えました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-Imperial rivalry, industrial capacity, and nationalism were the era's engines. The same industrial might that produced prosperity also produced ever-larger armies and navies — Britain and Germany's naval arms race being the clearest example. Japan's victory over Russia showed that industrialization, not race or geography, now determined power, a lesson that fueled both nationalism and anti-colonial hope.
-
-<!-- -->
-
-帝国間の対抗、工業力、そしてナショナリズムが、この時代のエンジンでした。繁栄を生み出したのと同じ工業力が、ますます巨大化する陸軍と海軍をも生み出します—英独の建艦競争はその最も明白な例です。日本のロシアに対する勝利は、いまや力を決するのは人種や地理ではなく工業化であることを示し、その教訓がナショナリズムと反植民地の希望の双方をかき立てました。
 
 ---
 

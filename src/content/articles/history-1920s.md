@@ -13,6 +13,17 @@ The 1920s were a decade of feverish energy and contradiction: postwar prosperity
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+The war's aftermath drove nearly everything: reparations and debt destabilized economies, wartime disillusion fueled both hedonism and extremism, and the Russian Revolution's example radicalized politics left and right. American loans propped up the German economy in a chain of debt that would snap in 1929, transmitting the coming Depression worldwide. Fascism and communism both presented themselves as decisive alternatives to a liberal order that seemed unable to deliver stability.
+
+<!-- -->
+
+戦争の余波がほとんどすべてを駆動しました。賠償と債務が経済を不安定にし、戦時の幻滅が快楽主義と過激主義の双方をあおり、ロシア革命の先例が左右の政治を先鋭化させます。アメリカの融資は債務の連鎖のなかでドイツ経済を支えていましたが、その連鎖は1929年に断ち切られ、来るべき大恐慌を世界中に伝えることになりました。ファシズムと共産主義はともに、安定をもたらせないと見えた自由主義的秩序への断固たる代替物として自らを提示しました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ Mustafa Kemal Atatürk founded the secular Turkish Republic in 1923, aggressivel
 <!-- -->
 
 ムスタファ・ケマル・アタテュルクは1923年に世俗的なトルコ共和国を建国し、積極的にそれを近代化しました。中国は軍閥に分断されたままで、国民党と生まれて間もない共産党が未来をめぐって競い合います。ヨーロッパ各地では、脆弱な新しい民主主義国が、ヴェルサイユが遺した経済的・領土的な負の遺産に苦しんでいました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-The war's aftermath drove nearly everything: reparations and debt destabilized economies, wartime disillusion fueled both hedonism and extremism, and the Russian Revolution's example radicalized politics left and right. American loans propped up the German economy in a chain of debt that would snap in 1929, transmitting the coming Depression worldwide. Fascism and communism both presented themselves as decisive alternatives to a liberal order that seemed unable to deliver stability.
-
-<!-- -->
-
-戦争の余波がほとんどすべてを駆動しました。賠償と債務が経済を不安定にし、戦時の幻滅が快楽主義と過激主義の双方をあおり、ロシア革命の先例が左右の政治を先鋭化させます。アメリカの融資は債務の連鎖のなかでドイツ経済を支えていましたが、その連鎖は1929年に断ち切られ、来るべき大恐慌を世界中に伝えることになりました。ファシズムと共産主義はともに、安定をもたらせないと見えた自由主義的秩序への断固たる代替物として自らを提示しました。
 
 ---
 

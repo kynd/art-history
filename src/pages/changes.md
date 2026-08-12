@@ -6,6 +6,22 @@ intro: A high-level log of substantial changes to the collection's content. Newe
 introJa: 内容に対する大きな変更の記録です。新しいものから順に並べます。誤字や言い回しといった小さな修正は、ここには載せません。
 ---
 
+## 2026-08-10
+
+Expanded the Raoul De Keyser page with his training under Roger Raveel, the Flemish *Nieuwe Visie* current, and the late international recognition that followed Documenta IX in 1992. Correcting it against "Painting After Photography" clarified a point on both pages: De Keyser painted from what he saw out of his window, not from photographs — what his work takes from the camera is the framing, the tight crop of a snapshot.
+
+<!-- -->
+
+ラウル・デ・カイザーのページを加筆しました。ロジェ・ラヴェールのもとでの修業、フランドルの潮流《ニュー・ヴィジョン》、そして1992年のドクメンタ9を機に届いた遅い国際的評価を加えています。「写真以後の絵画」と突き合わせたことで、双方のページである点が明確になりました。デ・カイザーが描いたのは窓の外に見えたものであって、写真からではありません。彼の作品がカメラから受け取っているのは枠取り、スナップショットのきつい切り取り方です。
+
+Also two changes across the collection. On the decade and overview pages, "Driving forces & connections" now sits at the top, next to the summary, so the forces come before the events they shaped. And we removed the "key figure" and "anchor figure" phrasing from artist pages: choosing a few artists for an essay is our editorial decision, not a ranking, so those pages now simply say the artist appears in it. The Editorial Policy records the principle.
+
+<!-- -->
+
+あわせて、全体にわたる二つの変更があります。各十年と概観のページでは、「駆動力とつながり」を要約のすぐ隣、いちばん上に移しました。出来事より先に、それを形づくった力が来るようにするためです。また、人物ページから「中心人物」「要となる人物」といった言い方をなくしました。エッセイのために数人の作家を選ぶことは私たちの編集上の判断であって順位づけではないため、各ページでは単に、その人物がそのエッセイに登場すると書いています。この方針は編集方針に記しました。
+
+---
+
 ## 2026-08-08
 
 Expanded and published the Marcel Duchamp page. It now traces where the readymade came from — the limits Duchamp found in "retinal" painting, the fourth-dimension mathematics he was reading, and the Dada circle in New York — and closes on the point that he built *The Large Glass* by hand *after* the readymades, so choosing never simply replaced making.

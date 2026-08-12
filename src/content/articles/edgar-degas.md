@@ -5,11 +5,11 @@ updated: 2026-08-02
 topics: ["painting", "impressionism", "photography", "composition"]
 ---
 
-Edgar Degas (1834–1917) painted dancers, racehorses, and women at their toilette with an eye that seems to catch them unposed, mid-movement — figures sliced by the frame, floors tilting up, the whole scene cropped as if glimpsed in passing. That "accidental" look was in fact meticulously constructed, and it drew directly on photography and Japanese prints. He is a key figure in the Impressionist pivot traced in [From Window to Mirror](/articles/window-to-mirror).
+Edgar Degas (1834–1917) painted dancers, racehorses, and women at their toilette with an eye that seems to catch them unposed, mid-movement — figures sliced by the frame, floors tilting up, the whole scene cropped as if glimpsed in passing. That "accidental" look was in fact meticulously constructed, and it drew directly on photography and Japanese prints. He appears in [From Window to Mirror](/articles/window-to-mirror).
 
 <!-- -->
 
-エドガー・ドガ（1834〜1917）は、踊り子や競走馬、身づくろいをする女性たちを、ポーズを取らせないまま、動きの途中で捉えたように見える眼で描きました。人物は画面の枠に切り取られ、床はせり上がり、情景全体が、通りすがりに垣間見たかのようにトリミングされています。その「偶然」の見え方は、実際には綿密に構築されたものであり、写真と日本の版画から直に学ばれたものでした。彼は[窓から鏡へ](/articles/window-to-mirror)でたどる印象派の転回の、重要な人物です。
+エドガー・ドガ（1834〜1917）は、踊り子や競走馬、身づくろいをする女性たちを、ポーズを取らせないまま、動きの途中で捉えたように見える眼で描きました。人物は画面の枠に切り取られ、床はせり上がり、情景全体が、通りすがりに垣間見たかのようにトリミングされています。その「偶然」の見え方は、実際には綿密に構築されたものであり、写真と日本の版画から直に学ばれたものでした。彼は[窓から鏡へ](/articles/window-to-mirror)に登場します。
 
 ---
 

@@ -5,11 +5,11 @@ updated: 2026-08-02
 topics: ["painting", "photography", "belgian-art", "memory"]
 ---
 
-Luc Tuymans (born 1958, near Antwerp) is one of the painters most responsible for reviving history painting in a photographic age. Working fast, in pale and sickly colour, from tightly cropped found images, he paints around traumatic subjects rather than at them — letting the weight settle in what is left out. He is a key figure in [Painting After Photography](/articles/painting-after-photography).
+Luc Tuymans (born 1958, near Antwerp) is one of the painters most responsible for reviving history painting in a photographic age. Working fast, in pale and sickly colour, from tightly cropped found images, he paints around traumatic subjects rather than at them — letting the weight settle in what is left out. He appears in [Painting After Photography](/articles/painting-after-photography).
 
 <!-- -->
 
-リュック・タイマンス（1958年生まれ、アントワープ近郊）は、写真の時代に歴史画を蘇らせた立役者の一人です。見つけ出した画像をきつくトリミングし、淡く病んだような色で、速く描きながら、彼はトラウマ的な主題を正面からではなく、その周りから描きます—重みを、描かれずに残されたものの側に宿らせるためです。彼は[写真以後の絵画](/articles/painting-after-photography)の重要な人物です。
+リュック・タイマンス（1958年生まれ、アントワープ近郊）は、写真の時代に歴史画を蘇らせた立役者の一人です。見つけ出した画像をきつくトリミングし、淡く病んだような色で、速く描きながら、彼はトラウマ的な主題を正面からではなく、その周りから描きます—重みを、描かれずに残されたものの側に宿らせるためです。彼は[写真以後の絵画](/articles/painting-after-photography)に登場します。
 
 ---
 

@@ -13,6 +13,17 @@ The 1950s combined Cold War tension with a remarkable economic boom across the i
 
 ---
 
+## Driving forces & connections
+## 駆動力とつながり
+
+The Cold War framed global politics: nearly every regional conflict was read through the superpower rivalry, and both blocs courted the decolonizing world. Economically, postwar reconstruction, cheap energy, and pent-up demand produced a long boom that underwrote Western political stability and consumer culture. Sputnik linked the military, scientific, and ideological competitions into a single contest for prestige that would soon reach the Moon.
+
+<!-- -->
+
+冷戦がグローバルな政治を枠づけました。ほとんどすべての地域紛争が超大国の対抗を通じて読み解かれ、両陣営は脱植民地化しつつある世界に取り入ろうとします。経済面では、戦後復興、安価なエネルギー、そして抑えられていた需要が長期の好況を生み、西側の政治的安定と消費文化を支えました。スプートニクは軍事的、科学的、イデオロギー的な競争を一つの威信をめぐる争いへと結びつけ、それはやがて月にまで到達することになりました。
+
+---
+
 ## Canonical events
 ## 教科書的な出来事
 
@@ -43,17 +54,6 @@ Decolonization gathered pace: the 1955 Bandung Conference gave voice to a nascen
 <!-- -->
 
 脱植民地化は勢いを増しました。1955年のバンドン会議は、独立したばかりのアジア・アフリカ諸国からなる生まれつつある非同盟運動に声を与え、1957年のガーナの独立はアフリカ全域に来るべき波を告げます。アメリカでは、連邦最高裁の「ブラウン対教育委員会」判決（1954年）とモンゴメリーのバス・ボイコットが、現代の公民権運動を始動させました。
-
----
-
-## Driving forces & connections
-## 駆動力とつながり
-
-The Cold War framed global politics: nearly every regional conflict was read through the superpower rivalry, and both blocs courted the decolonizing world. Economically, postwar reconstruction, cheap energy, and pent-up demand produced a long boom that underwrote Western political stability and consumer culture. Sputnik linked the military, scientific, and ideological competitions into a single contest for prestige that would soon reach the Moon.
-
-<!-- -->
-
-冷戦がグローバルな政治を枠づけました。ほとんどすべての地域紛争が超大国の対抗を通じて読み解かれ、両陣営は脱植民地化しつつある世界に取り入ろうとします。経済面では、戦後復興、安価なエネルギー、そして抑えられていた需要が長期の好況を生み、西側の政治的安定と消費文化を支えました。スプートニクは軍事的、科学的、イデオロギー的な競争を一つの威信をめぐる争いへと結びつけ、それはやがて月にまで到達することになりました。
 
 ---
 

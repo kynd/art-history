@@ -1,7 +1,7 @@
 ---
 title: "Painting After Photography: The Image as Raw Material  写真以後の絵画・原資料としての画像"
 created: 2026-08-02
-updated: 2026-08-05
+updated: 2026-08-10
 topics: ["painting", "photography", "new-european-painting", "contemporary-art"]
 ---
 
@@ -27,19 +27,19 @@ The painters sometimes grouped under "New European Painting" tended to approach 
 ## Three approaches
 ## 三つのアプローチ
 
-Placed side by side, these three painters suggest quite different reasons to work from a photograph.
+Placed side by side, these three painters suggest quite different relationships to the photographic image.
 
 - **[Gerhard Richter](/articles/gerhard-richter)** has spoken of the photograph's lack of a style of its own, which he says frees him from inventing a composition. His blurred surfaces, made by dragging a soft brush or squeegee across wet paint, hold the image at a distance; in works such as *September* and the *Birkenau* cycle, that distance becomes a question about whether certain events can be pictured at all.
 - **[Luc Tuymans](/articles/luc-tuymans)** works quickly, in pale, drained colour, cropping found images tightly. He often paints around a difficult subject rather than at it — quiet interiors, official portraits — so that much of the weight sits in what is left out.
-- **[Raoul De Keyser](/articles/raoul-de-keyser)** used everyday sights, a garden hose or a chalk line on a pitch, as a starting point for small, quiet abstractions. The marks are deliberately awkward, which slows down the moment of recognition and directs attention to the paint itself.
+- **[Raoul De Keyser](/articles/raoul-de-keyser)** used everyday sights, a garden hose or a chalk line on a pitch, as a starting point for small, quiet abstractions. What he takes from photography is the framing rather than the source: the tight, offhand crop of a snapshot. The marks are deliberately awkward, which slows down the moment of recognition and directs attention to the paint itself.
 
 <!-- -->
 
-並べて置くと、この三人の画家は、写真から制作することの、かなり異なる理由を示唆します。
+並べて置くと、この三人の画家は、写真的な画像とのかなり異なる関わり方を示唆します。
 
 - **[ゲルハルト・リヒター](/articles/gerhard-richter)**は、写真がそれ自体のスタイルを持たないことについて語り、それが構図を発明する負担から自分を解放すると述べています。柔らかな刷毛やスキージを乾いていない絵の具の上で引いて作られるぼやけた表面は、画像を一定の距離に保ちます。《September》や《Birkenau》連作では、その距離が、ある出来事はそもそも像にできるのか、という問いになります。
 - **[リュック・タイマンス](/articles/luc-tuymans)**は、淡く色の抜けた色調で速く描き、見つけ出した画像をきつく切り取ります。彼はしばしば、難しい主題を正面からではなく、その周りから描きます—静かな室内、公式の肖像です。そのため、重みの多くは、描かれずに残されたものの側に置かれます。
-- **[ラウル・デ・カイザー](/articles/raoul-de-keyser)**は、庭のホースやグラウンドのチョークの線といった日常の光景を、小さく静かな抽象の出発点にしました。筆跡は意図的にぎこちなく、それが認識の瞬間を遅らせ、注意を絵の具そのものへと向けます。
+- **[ラウル・デ・カイザー](/articles/raoul-de-keyser)**は、庭のホースやグラウンドのチョークの線といった日常の光景を、小さく静かな抽象の出発点にしました。彼が写真から受け取ったのは出典ではなく枠取りです。スナップショットの、きつく無造作な切り取り方でした。筆跡は意図的にぎこちなく、それが認識の瞬間を遅らせ、注意を絵の具そのものへと向けます。
 
 ---
 
