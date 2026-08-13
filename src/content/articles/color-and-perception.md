@@ -1,7 +1,7 @@
 ---
 title: "Color, Light, and Perception  色彩・光・知覚"
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-12
 topics: ["color", "impressionism", "perception"]
 ---
 
@@ -32,6 +32,17 @@ Chevreul's observation that adjacent colors alter one another gave painters a ph
 <!-- -->
 
 隣り合う色は互いを変化させるというシュヴルールの観察は、画家たちに生理学的な文法を与えました。灰色は青のそばでは暖かく、オレンジのそばでは冷たく見え、ある色相はその補色に対して強度を増します。芸術家たちはこうした不安定さを利用して表面を振動させ、キャンバスが見つめ続けるうちに揺らぎ、呼吸しているように見えるようにしました。
+
+---
+
+## The music analogy
+## 音楽との類比
+
+Alongside the physiology ran a different claim: that color works on the viewer the way sound does. Instrumental music describes nothing and still moves people, which made it useful evidence for painters who wanted to drop description. Kandinsky pushed this furthest, pairing each color with an instrument and an effect he took to be dependable — yellow with a high trumpet, blue with a cello or an organ. The pairings have not held up as claims about perception in general, but they were doing something else: giving painting permission to work without a subject.
+
+<!-- -->
+
+生理学と並んで、別の主張も流れていました。色彩は、音が働くのと同じように鑑賞者に働きかける、という主張です。器楽音楽は何も描写せず、それでも人を動かします。描写を手放したい画家たちにとって、それは使える証拠でした。カンディンスキーはこれを最も遠くまで押し進め、それぞれの色を、楽器と、彼が確かなものと考えた効果に対応させます。黄は高音のトランペットに、青はチェロやオルガンに、という具合です。この対応づけは、知覚一般についての主張としては支持されていません。ただし、それは別の働きをしていました。主題を持たずに制作することを、絵画に許しました。
 
 ---
 

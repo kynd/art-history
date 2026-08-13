@@ -5,11 +5,11 @@ updated: 2026-08-02
 topics: ["painting", "impressionism", "photography", "composition"]
 ---
 
-Edgar Degas (1834–1917) painted dancers, racehorses, and women at their toilette with an eye that seems to catch them unposed, mid-movement — figures sliced by the frame, floors tilting up, the whole scene cropped as if glimpsed in passing. That "accidental" look was in fact meticulously constructed, and it drew directly on photography and Japanese prints. He appears in [From Window to Mirror](/articles/window-to-mirror).
+Edgar Degas (1834–1917) painted dancers, racehorses, and women at their toilette with an eye that seems to catch them unposed, mid-movement — figures sliced by the frame, floors tilting up, the whole scene cropped as if glimpsed in passing. That "accidental" look was in fact meticulously constructed, and it drew directly on photography and Japanese prints.
 
 <!-- -->
 
-エドガー・ドガ（1834〜1917）は、踊り子や競走馬、身づくろいをする女性たちを、ポーズを取らせないまま、動きの途中で捉えたように見える眼で描きました。人物は画面の枠に切り取られ、床はせり上がり、情景全体が、通りすがりに垣間見たかのようにトリミングされています。その「偶然」の見え方は、実際には綿密に構築されたものであり、写真と日本の版画から直に学ばれたものでした。彼は[窓から鏡へ](/articles/window-to-mirror)に登場します。
+エドガー・ドガ（1834〜1917）は、踊り子や競走馬、身づくろいをする女性たちを、ポーズを取らせないまま、動きの途中で捉えたように見える眼で描きました。人物は画面の枠に切り取られ、床はせり上がり、情景全体が、通りすがりに垣間見たかのようにトリミングされています。その「偶然」の見え方は、実際には綿密に構築されたものであり、写真と日本の版画から直に学ばれたものでした。
 
 ---
 
@@ -49,11 +49,11 @@ Degas was a relentless experimenter across media — oil, and increasingly paste
 ## In the bigger picture
 ## より大きな文脈のなかで
 
-Degas shows the Impressionist pivot at its most deliberate: not an abandonment of drawing, but a new grammar of seeing built from the modern image-world of the camera and the print. His cropped, off-centre framing became part of the shared visual language that later painting — and photography, and film — would take for granted. He belongs to the young avant-garde surveyed in [the 1900s](/articles/art-1900s), and stands near the start of the long story of [painting after photography](/articles/painting-after-photography).
+Degas shows the Impressionist pivot at its most deliberate: not an abandonment of drawing, but a new grammar of seeing built from the modern image-world of the camera and the print. His cropped, off-centre framing became part of the shared visual language that later painting — and photography, and film — would take for granted. He belongs to the young avant-garde of [the 1900s](/articles/art-1900s), and stands near the start of the long story of [painting after photography](/articles/painting-after-photography).
 
 <!-- -->
 
-ドガは、印象派の転回を最も意図的な形で示します。それは素描の放棄ではなく、カメラと版画という近代の画像世界から組み立てられた、新しい「見ることの文法」でした。彼の切り取られ、中心を外した枠取りは、のちの絵画が—そして写真や映画が—当然のものとして受け取ることになる、共有された視覚言語の一部になります。彼は[1900年代](/articles/art-1900s)で概観される若い前衛に属し、[写真以後の絵画](/articles/painting-after-photography)という長い物語の、始まりの近くに立っています。
+ドガは、印象派の転回を最も意図的な形で示します。それは素描の放棄ではなく、カメラと版画という近代の画像世界から組み立てられた、新しい「見ることの文法」でした。彼の切り取られ、中心を外した枠取りは、のちの絵画が—そして写真や映画が—当然のものとして受け取ることになる、共有された視覚言語の一部になります。彼は[1900年代](/articles/art-1900s)の若い前衛に属し、[写真以後の絵画](/articles/painting-after-photography)という長い物語の、始まりの近くに立っています。
 
 <ol class="footnotes">
 <li>Edgar Degas — Musée d'Orsay. <a href="https://www.musee-orsay.fr/en/artists/edgar-degas" target="_blank" rel="noopener">Artist page — Musée d'Orsay</a></li>

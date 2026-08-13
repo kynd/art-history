@@ -46,7 +46,7 @@ Prefer the plain statement to the elegant one. Use a plain reporting verb rather
 
 <!-- -->
 
-洗練された言い方よりも、平明な言い方を選びます。動詞の代わりに比喩を置くのではなく、素直な動詞を使います——「モネの賭けは…というものでした」ではなく「モネは…と考えていました」。誰かの行為を巧みに性格づけるのではなく、何をしたのかを述べます——「モチーフを口実として扱った」ではなく「同じモチーフに立ち戻り、光を記録した」。ふつうの主張を比喩で言い換えません——「彼の指紋はいたるところに残っている」ではなく「彼の影響はいたるところに見られる」。もし言い回しが事実をほのめかしているなら、その事実のほうを書きます。批評家が《印象・日の出》の題名を揶揄し、その名が定着した、というように。
+洗練された言い方よりも、平明な言い方を選びます。動詞の代わりに比喩を置くのではなく、素直な動詞を使います—「モネの賭けは…というものでした」ではなく「モネは…と考えていました」。誰かの行為を巧みに性格づけるのではなく、何をしたのかを述べます—「モチーフを口実として扱った」ではなく「同じモチーフに立ち戻り、光を記録した」。ふつうの主張を比喩で言い換えません—「彼の指紋はいたるところに残っている」ではなく「彼の影響はいたるところに見られる」。もし言い回しが事実をほのめかしているなら、その事実のほうを書きます。批評家が《印象・日の出》の題名を揶揄し、その名が定着した、というように。
 
 ---
 
@@ -80,6 +80,17 @@ Headings are plainly descriptive. No label prefixes (*Method:*) and no evocative
 <!-- -->
 
 見出しは、平明に主題を説明するものにします。ラベルの接頭辞（「方法：」）も、喚起的なイメージ（「背後のカメラ」）も使いません。「事物ではなく、光を」「絵画と写真」のように書きます。
+
+---
+
+## No signposts to other pages
+## 他のページへの案内は書かない
+
+We don't write sentences whose only job is to send the reader elsewhere — no "see X," no "he appears in X," no "the companion essay X." Every page is reachable by semantic search, and each one lists its closest neighbours, so the signposts add nothing and read like footnotes in the prose. Links inside a sentence are fine when the linked idea is doing work there; what we avoid is naming another page as a destination.
+
+<!-- -->
+
+読者を他のページへ送るためだけの文は書きません。「〜を参照してください」「彼は〜に登場します」「対になるページ〜」といった書き方です。どのページも意味検索からたどり着けますし、各ページには近い記事の一覧が出ます。ですから案内は何も足さず、本文のなかで注のように読めてしまいます。文のなかのリンクは、その語がその場で意味を担っているなら問題ありません。避けるのは、他のページを行き先として名指すことです。
 
 ---
 

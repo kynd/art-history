@@ -5,11 +5,11 @@ updated: 2026-08-06
 topics: ["painting", "impressionism", "photography", "light"]
 ---
 
-Claude Monet (1840–1926) is the central figure of Impressionism — a movement that took its name from a critic's mockery of his *Impression, Sunrise* (1872). He sought to paint not the object itself, but the sensation of light upon it. Across long series of haystacks, cathedrals, and water lilies, he returned to the same motif to record how time and atmosphere transformed it. In doing so, he helped shift the canvas from a window onto the world to a record of perception. He appears in [From Window to Mirror](/articles/window-to-mirror).
+Claude Monet (1840–1926) is the central figure of Impressionism — a movement that took its name from a critic's mockery of his *Impression, Sunrise* (1872). He sought to paint not the object itself, but the sensation of light upon it. Across long series of haystacks, cathedrals, and water lilies, he returned to the same motif to record how time and atmosphere transformed it. In doing so, he helped shift the canvas from a window onto the world to a record of perception.
 
 <!-- -->
 
-クロード・モネ（1840〜1926）は、印象派の中心的な画家です。印象派という名は、彼の《印象・日の出》（1872年）への批評家の嘲りから生まれました。彼の目標は、対象そのものではなく、そこに落ちる光の感覚を描くことでした。積みわら、大聖堂、睡蓮の長い連作で同じモチーフに繰り返し向き合い、時間と大気の変化を記録しました。その過程で、キャンバスを世界への「窓」から「知覚の記録」へと転換させる一助となりました。彼は[窓から鏡へ](/articles/window-to-mirror)に登場します。
+クロード・モネ（1840〜1926）は、印象派の中心的な画家です。印象派という名は、彼の《印象・日の出》（1872年）への批評家の嘲りから生まれました。彼の目標は、対象そのものではなく、そこに落ちる光の感覚を描くことでした。積みわら、大聖堂、睡蓮の長い連作で同じモチーフに繰り返し向き合い、時間と大気の変化を記録しました。その過程で、キャンバスを世界への「窓」から「知覚の記録」へと転換させる一助となりました。
 
 ---
 

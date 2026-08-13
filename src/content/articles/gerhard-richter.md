@@ -5,11 +5,11 @@ updated: 2026-08-02
 topics: ["painting", "photography", "german-art", "abstraction"]
 ---
 
-Gerhard Richter (born 1932) is among the most influential and restlessly various painters of the past century — an artist who has moved, often at the same time, between blurred paintings made from photographs and vast abstractions scraped with a squeegee. Running through this range is a single question: after the camera, what is a painted image for, and how far can we trust it? He appears in [Painting After Photography](/articles/painting-after-photography).
+Gerhard Richter (born 1932) is among the most influential and restlessly various painters of the past century — an artist who has moved, often at the same time, between blurred paintings made from photographs and vast abstractions scraped with a squeegee. Running through this range is a single question: after the camera, what is a painted image for, and how far can we trust it?
 
 <!-- -->
 
-ゲルハルト・リヒター（1932年生まれ）は、この一世紀で最も影響力があり、たえず多様であり続けてきた画家の一人です。写真から描かれたぼやけた絵と、スキージで削り出された巨大な抽象とのあいだを—しばしば同時に—行き来してきました。その幅広い仕事を貫くのは、ひとつの問いです。カメラ以後、描かれた画像は何のためにあり、それをどこまで信じられるのか。彼は[写真以後の絵画](/articles/painting-after-photography)に登場します。
+ゲルハルト・リヒター（1932年生まれ）は、この一世紀で最も影響力があり、たえず多様であり続けてきた画家の一人です。写真から描かれたぼやけた絵と、スキージで削り出された巨大な抽象とのあいだを—しばしば同時に—行き来してきました。その幅広い仕事を貫くのは、ひとつの問いです。カメラ以後、描かれた画像は何のためにあり、それをどこまで信じられるのか。
 
 ---
 

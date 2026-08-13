@@ -18,11 +18,11 @@ Grant Wood (1891–1942) was a leading American Regionalist and the painter of *
 ## Overview
 ## 概要
 
-Wood worked mostly in Iowa. He became a central figure of 1930s Regionalism, the movement that turned toward legible, local American subjects — farms, small towns, and rural life — often supported by New Deal art programs. His crisp, rounded style and his images of the Midwest made him nationally famous, and *American Gothic* entered popular culture almost immediately. (For the wider scene, see [the 1930s](/articles/art-1930s).)
+Wood worked mostly in Iowa. He became a central figure of 1930s Regionalism, the movement that turned toward legible, local American subjects — farms, small towns, and rural life — often supported by New Deal art programs. His crisp, rounded style and his images of the Midwest made him nationally famous, and *American Gothic* entered popular culture almost immediately.
 
 <!-- -->
 
-ウッドは主にアイオワで制作しました。1930年代のリージョナリズム—農場や小さな町、農村の暮らしといった、読み解きやすい地域的なアメリカの主題へと向かった運動—の中心的な人物になりました。しばしばニューディールの美術プログラムに支えられた運動です。くっきりと丸みのある様式と、中西部のイメージは、彼を全国的に有名にし、《アメリカン・ゴシック》はほとんど即座に大衆文化に入りました。（より広い状況については[1930年代](/articles/art-1930s)を参照してください。）
+ウッドは主にアイオワで制作しました。1930年代のリージョナリズム—農場や小さな町、農村の暮らしといった、読み解きやすい地域的なアメリカの主題へと向かった運動—の中心的な人物になりました。しばしばニューディールの美術プログラムに支えられた運動です。くっきりと丸みのある様式と、中西部のイメージは、彼を全国的に有名にし、《アメリカン・ゴシック》はほとんど即座に大衆文化に入りました。
 
 ---
 

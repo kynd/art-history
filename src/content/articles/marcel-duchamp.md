@@ -104,15 +104,11 @@ So the shift was never a simple rejection of craft or physical labour. What chan
 - **考えるための制作。** 《大ガラス》において、その精度は錯覚や自己表現に奉仕していません。規則と力学と欲望からなる、自己完結した体系に奉仕しています。ひとつの観念を支えるために組み立てられた構築物です。
 - **限界を試すものとしてのレディメイド。** 物を選ぶことは、アトリエを捨てることではありませんでした。それは、どれだけの介入が実際に必要なのかを試すものでした。工業製品が選択と文脈だけで芸術になるのなら、作ることは何を加えているのか、という問いです。
 
-Working on the *Glass* after the readymades shows that the two were not successive stages. Duchamp could build an elaborate allegory of machinery and desire with his own hands while holding that the artist's main power lies in the act of designation. Craft was no longer what defined art. It became another material he could use, question, or work against. See [The Readymade](/articles/the-readymade) and [What Is Art?](/articles/what-is-art).<sup>2</sup>
+Working on the *Glass* after the readymades shows that the two were not successive stages. Duchamp could build an elaborate allegory of machinery and desire with his own hands while holding that the artist's main power lies in the act of designation. Craft was no longer what defined art. It became another material he could use, question, or work against.<sup>2</sup>
 
 <!-- -->
 
-レディメイドのあとに《大ガラス》へ取り組んだことは、この二つが順に続く段階ではなかったことを示しています。デュシャンは、機械と欲望をめぐる入り組んだ寓意を自らの手で組み立てながら、同時に、芸術家の主な力は指名という行為にあると考え続けました。手仕事はもはや、芸術を定義するものではありません。用いることも、問いに付すことも、逆手に取ることもできる、もうひとつの素材になりました。[レディメイド](/articles/the-readymade)と[アートとは何か](/articles/what-is-art)を参照してください。<sup>2</sup>
-
-<!-- -->
-
-デュシャンの重要性は、創造という行為をどこに置いたかにあります。それを作ることから選ぶことへ—物を制作することから、物を選び、枠づけ直すことへ—移すことで、芸術を技芸としてではなく、ひとつの問いとして扱えるようにしました。彼はただ芸術を壊そうとしていたのではありません。芸術がほかに何でありうるのかを知るために、その前提を分解しました。コンセプチュアル・アートやポップ、ミニマリズムの多くは、そこで開かれた場所で仕事をしています。[レディメイド](/articles/the-readymade)と[アートとは何か](/articles/what-is-art)を参照してください。<sup>1</sup>
+レディメイドのあとに《大ガラス》へ取り組んだことは、この二つが順に続く段階ではなかったことを示しています。デュシャンは、機械と欲望をめぐる入り組んだ寓意を自らの手で組み立てながら、同時に、芸術家の主な力は指名という行為にあると考え続けました。手仕事はもはや、芸術を定義するものではありません。用いることも、問いに付すことも、逆手に取ることもできる、もうひとつの素材になりました。<sup>2</sup>
 
 <ol class="footnotes">
 <li><em>The Bride Stripped Bare by Her Bachelors, Even (The Large Glass)</em>, 1915–23 — Philadelphia Museum of Art, which holds the work and its history of damage and repair. <a href="https://philamuseum.org/collection/object/54149" target="_blank" rel="noopener">Philadelphia Museum of Art</a></li>

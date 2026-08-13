@@ -470,18 +470,18 @@ const termTargets = [
             if (mm) { idx = mm.index; len = mm[0].length; }
           } else {
             idx = text.indexOf(m.alias);
-            if (idx !== -1 && m.person && isKatakana(m.alias[0])) {
-              // Reject a partial match sitting inside a longer katakana word
-              // (e.g. リベラ inside リベラル), then extend LEFT across the katakana
-              // run to absorb a preceding given name (ニューマン → バーネット・ニューマン).
-              if (isKatakana(text[idx + len])) {
-                idx = -1;
-              } else {
-                let s = idx;
-                while (s > 0 && isKatakana(text[s - 1])) s--;
-                len = idx + len - s;
-                idx = s;
-              }
+            if (idx !== -1 && isKatakana(m.alias[0]) && isKatakana(text[idx + len])) {
+              // Reject a partial match sitting inside a longer katakana word —
+              // リベラ inside リベラル, アニメ inside アニメーション. This applies to
+              // every katakana alias, not only person names.
+              idx = -1;
+            } else if (idx !== -1 && m.person && isKatakana(m.alias[0])) {
+              // Extend LEFT across the katakana run to absorb a preceding given
+              // name (ニューマン → バーネット・ニューマン).
+              let s = idx;
+              while (s > 0 && isKatakana(text[s - 1])) s--;
+              len = idx + len - s;
+              idx = s;
             } else if (idx !== -1 && '的化性家派'.includes(text[idx + len] || '')) {
               // Avoid partial-word matches like 具体 inside 具体的, 抽象 inside 抽象化.
               idx = -1;

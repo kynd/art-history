@@ -5,11 +5,11 @@ updated: 2026-08-10
 topics: ["painting", "belgian-art", "abstraction", "everyday"]
 ---
 
-Raoul De Keyser (1930–2012) made small, quiet paintings of enormous patience — a garden hose, a chalk line on a pitch, the corner of a window — reduced to flat shapes and wayward marks. He worked almost entirely from his home in Deinze, in the Belgian lowlands, turning the everyday snapshot into an abstract playing field. His influence on later painters was quiet but decisive. He appears in [Painting After Photography](/articles/painting-after-photography).
+Raoul De Keyser (1930–2012) made small, quiet paintings of enormous patience — a garden hose, a chalk line on a pitch, the corner of a window — reduced to flat shapes and wayward marks. He worked almost entirely from his home in Deinze, in the Belgian lowlands, turning the everyday snapshot into an abstract playing field. His influence on later painters was quiet but decisive.
 
 <!-- -->
 
-ラウル・デ・カイザー（1930〜2012）は、途方もない忍耐から生まれた、小さく静かな絵画を制作しました。庭のホース、グラウンドに引かれたチョークの線、窓の一隅が、平らな形と気まぐれな筆跡へと還元されます。彼はベルギー低地帯の町デインゼの自宅を拠点に、ほぼすべての制作を行い、日常のスナップショットを抽象の遊び場へと変えました。のちの画家たちへの影響は、静かでありながら決定的なものでした。彼は[写真以後の絵画](/articles/painting-after-photography)に登場します。
+ラウル・デ・カイザー（1930〜2012）は、途方もない忍耐から生まれた、小さく静かな絵画を制作しました。庭のホース、グラウンドに引かれたチョークの線、窓の一隅が、平らな形と気まぐれな筆跡へと還元されます。彼はベルギー低地帯の町デインゼの自宅を拠点に、ほぼすべての制作を行い、日常のスナップショットを抽象の遊び場へと変えました。のちの画家たちへの影響は、静かでありながら決定的なものでした。
 
 ---
 
@@ -44,11 +44,11 @@ His practice developed apart from the historical and media-driven concerns of ma
 ## Recognition and influence
 ## 評価と影響
 
-International recognition came late, and picked up considerably after he showed at Documenta IX in 1992. His example has proved durable: a whole life spent turning a modest, private view of the world into rigorous, tender abstraction. Where other tendencies took on mass media, collective memory, and political history, De Keyser worked at the opposite pole — the everyday sight, cropped, distilled, and slowed until it becomes pure form. His search for "forms of waywardness" links the quieter uses of the photograph to the older questions of [Materiality and the Honest Surface](/articles/materiality-and-process).
+International recognition came late, and picked up considerably after he showed at Documenta IX in 1992. His example has proved durable: a whole life spent turning a modest, private view of the world into rigorous, tender abstraction. Where other tendencies took on mass media, collective memory, and political history, De Keyser worked at the opposite pole — the everyday sight, cropped, distilled, and slowed until it becomes pure form. His search for "forms of waywardness" links the quieter uses of the photograph to older questions of [materiality and the honest surface](/articles/materiality-and-process).
 
 <!-- -->
 
-国際的な評価が届くのは遅く、1992年のドクメンタ9への参加を機に、大きく広がりました。彼の残したものは、驚くほど長く生き続けています。世界に対する慎ましく私的な眺めを、厳格で優しい抽象へと変えることに、一生を費やしうるということです。他の潮流がマスメディアや集合的な記憶、政治の歴史に取り組んだのに対し、デ・カイザーは反対の極で制作しました。日常の光景を切り取り、濾過し、純粋な形になるまで速度を落とすという極です。「気まぐれの形」を探し続けた彼の姿勢は、写真のより静かな使い方を、[物質性と正直な表面](/articles/materiality-and-process)というより古い問いへと結びつけます。
+国際的な評価が届くのは遅く、1992年のドクメンタ9への参加を機に、大きく広がりました。彼の残したものは、驚くほど長く生き続けています。世界に対する慎ましく私的な眺めを、厳格で優しい抽象へと変えることに、一生を費やしうるということです。他の潮流がマスメディアや集合的な記憶、政治の歴史に取り組んだのに対し、デ・カイザーは反対の極で制作しました。日常の光景を切り取り、濾過し、純粋な形になるまで速度を落とすという極です。「気まぐれの形」を探し続けた彼の姿勢は、写真のより静かな使い方を、[物質性と正直な表面](/articles/materiality-and-process)をめぐるより古い問いへと結びつけます。
 
 <ol class="footnotes">
 <li>Raoul De Keyser — David Zwirner. <a href="https://www.davidzwirner.com/artists/raoul-de-keyser" target="_blank" rel="noopener">Artist page and works — David Zwirner</a></li>

@@ -29,11 +29,11 @@ After studying in Europe and absorbing Cubism, Rivera returned to post-revolutio
 ## A closer look: art off the easel
 ## より詳しく—イーゼルを離れた芸術
 
-Rivera's choice of the wall was deliberate and, in its way, radical. Muralism was public, monumental, legible to people who never entered a gallery, and made collectively — an alternative to the private, portable, individually owned artwork the art market is built around. The stakes became vivid in 1933, when Rivera's [*Man at the Crossroads*](https://en.wikipedia.org/wiki/Man_at_the_Crossroads), commissioned for Rockefeller Center in New York, included a portrait of Lenin; the patrons asked for its removal, Rivera declined, and the mural was destroyed. That episode — public political art meeting private patronage — is a striking case in the long argument over who art is for, and it connects to the Mexican alternative discussed in [the 1930s](/articles/art-1930s) and [The Great Cut](/articles/the-great-cut).
+Rivera's choice of the wall was deliberate and, in its way, radical. Muralism was public, monumental, legible to people who never entered a gallery, and made collectively — an alternative to the private, portable, individually owned artwork the art market is built around. The stakes became vivid in 1933, when Rivera's [*Man at the Crossroads*](https://en.wikipedia.org/wiki/Man_at_the_Crossroads), commissioned for Rockefeller Center in New York, included a portrait of Lenin; the patrons asked for its removal, Rivera declined, and the mural was destroyed. That episode — public political art meeting private patronage — is a striking case in the long argument over who art is for.
 
 <!-- -->
 
-リベラが壁を選んだことは、意図的で、その意味で急進的でした。壁画は公共的で、記念碑的で、画廊に一度も入らない人々にも読み取れ、集団で作られました—美術市場が拠って立つ、私的で持ち運び可能な、個人所有の作品への、ひとつの代替です。その賭け金は1933年に鮮烈になります。ニューヨークのロックフェラー・センターのために依頼されたリベラの[《岐路に立つ人》](https://en.wikipedia.org/wiki/Man_at_the_Crossroads)がレーニンの肖像を含んでいたとき、施主はその除去を求め、リベラは断り、壁画は破壊されました。この出来事—公共の政治的な芸術が、私的な庇護と出会う—は、芸術は誰のためのものかをめぐる長い議論における、印象的な一例であり、[1930年代](/articles/art-1930s)や[大断絶](/articles/the-great-cut)で論じたメキシコの代替につながります。
+リベラが壁を選んだことは、意図的で、その意味で急進的でした。壁画は公共的で、記念碑的で、画廊に一度も入らない人々にも読み取れ、集団で作られました—美術市場が拠って立つ、私的で持ち運び可能な、個人所有の作品への、ひとつの代替です。その賭け金は1933年に鮮烈になります。ニューヨークのロックフェラー・センターのために依頼されたリベラの[《岐路に立つ人》](https://en.wikipedia.org/wiki/Man_at_the_Crossroads)がレーニンの肖像を含んでいたとき、施主はその除去を求め、リベラは断り、壁画は破壊されました。この出来事—公共の政治的な芸術が、私的な庇護と出会う—は、芸術は誰のためのものかをめぐる長い議論における、印象的な一例です。
 
 <ol class="footnotes">
 <li>Diego Rivera — MoMA. <a href="https://www.moma.org/artists/4980" target="_blank" rel="noopener">Artist page — The Museum of Modern Art</a></li>

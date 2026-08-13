@@ -5,11 +5,11 @@ updated: 2026-08-02
 topics: ["painting", "photography", "belgian-art", "memory"]
 ---
 
-Luc Tuymans (born 1958, near Antwerp) is one of the painters most responsible for reviving history painting in a photographic age. Working fast, in pale and sickly colour, from tightly cropped found images, he paints around traumatic subjects rather than at them — letting the weight settle in what is left out. He appears in [Painting After Photography](/articles/painting-after-photography).
+Luc Tuymans (born 1958, near Antwerp) is one of the painters most responsible for reviving history painting in a photographic age. Working fast, in pale and sickly colour, from tightly cropped found images, he paints around traumatic subjects rather than at them — letting the weight settle in what is left out.
 
 <!-- -->
 
-リュック・タイマンス（1958年生まれ、アントワープ近郊）は、写真の時代に歴史画を蘇らせた立役者の一人です。見つけ出した画像をきつくトリミングし、淡く病んだような色で、速く描きながら、彼はトラウマ的な主題を正面からではなく、その周りから描きます—重みを、描かれずに残されたものの側に宿らせるためです。彼は[写真以後の絵画](/articles/painting-after-photography)に登場します。
+リュック・タイマンス（1958年生まれ、アントワープ近郊）は、写真の時代に歴史画を蘇らせた立役者の一人です。見つけ出した画像をきつくトリミングし、淡く病んだような色で、速く描きながら、彼はトラウマ的な主題を正面からではなく、その周りから描きます—重みを、描かれずに残されたものの側に宿らせるためです。
 
 ---
 
@@ -49,11 +49,11 @@ We live saturated with terrible events on screens, a fog that dulls feeling. Tuy
 ## In the bigger picture
 ## より大きな文脈のなかで
 
-Tuymans made it possible, again, to paint history without illustrating it — to treat the photograph not as evidence to be copied but as a compromised, forgetful thing to be examined. His subjects are often complicity and the banality with which power operates; his method insists that a painting can carry moral weight precisely by withholding the expected image. Set beside [Gerhard Richter](/articles/gerhard-richter)'s search for neutrality and [Raoul De Keyser](/articles/raoul-de-keyser)'s quiet formalism, his work marks one of the three motives traced in [Painting After Photography](/articles/painting-after-photography).
+Tuymans made it possible, again, to paint history without illustrating it — to treat the photograph not as evidence to be copied but as a compromised, forgetful thing to be examined. His subjects are often complicity and the banality with which power operates; his method insists that a painting can carry moral weight precisely by withholding the expected image. His work sits apart from [Gerhard Richter](/articles/gerhard-richter)'s search for neutrality and from [Raoul De Keyser](/articles/raoul-de-keyser)'s quiet formalism.
 
 <!-- -->
 
-タイマンスは、歴史をイラスト化せずに描くこと—写真を、写し取るべき証拠としてではなく、損なわれ、忘れっぽい、検分すべき物として扱うこと—を、ふたたび可能にしました。彼の主題はしばしば共犯性であり、権力が働くさいの陳腐さです。その方法は、期待された画像を差し控えることによってこそ、絵画が道徳的な重みを担いうると主張します。[ゲルハルト・リヒター](/articles/gerhard-richter)の中立性の探求と、[ラウル・デ・カイザー](/articles/raoul-de-keyser)の静かなフォーマリズムと並べると、彼の仕事は[写真以後の絵画](/articles/painting-after-photography)でたどる三つの動機の一つを画します。
+タイマンスは、歴史をイラスト化せずに描くこと—写真を、写し取るべき証拠としてではなく、損なわれ、忘れっぽい、検分すべき物として扱うこと—を、ふたたび可能にしました。彼の主題はしばしば共犯性であり、権力が働くさいの陳腐さです。その方法は、期待された画像を差し控えることによってこそ、絵画が道徳的な重みを担いうると主張します。彼の仕事は、[ゲルハルト・リヒター](/articles/gerhard-richter)の中立性の探求とも、[ラウル・デ・カイザー](/articles/raoul-de-keyser)の静かなフォーマリズムとも、別のところに立っています。
 
 <ol class="footnotes">
 <li>Luc Tuymans — David Zwirner. <a href="https://www.davidzwirner.com/artists/luc-tuymans" target="_blank" rel="noopener">Artist page and works — David Zwirner</a></li>

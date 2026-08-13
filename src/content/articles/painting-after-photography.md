@@ -5,11 +5,11 @@ updated: 2026-08-10
 topics: ["painting", "photography", "new-european-painting", "contemporary-art"]
 ---
 
-Once photographs had become an ordinary part of daily life rather than a novelty, a number of painters began treating the camera image less as a rival than as material to work from. Photographs — in newspapers, advertising, archives, and family albums — were already a shared visual language, and painting from one meant taking something familiar and slowing it down. This essay looks at three painters who did this for different reasons, at the range of approaches around them, and at what painting from photographs seems to offer. It is the companion to [From Window to Mirror](/articles/window-to-mirror).
+Once photographs had become an ordinary part of daily life rather than a novelty, a number of painters began treating the camera image less as a rival than as material to work from. Photographs — in newspapers, advertising, archives, and family albums — were already a shared visual language, and painting from one meant taking something familiar and slowing it down. This essay looks at three painters who did this for different reasons, at the range of approaches around them, and at what painting from photographs seems to offer.
 
 <!-- -->
 
-写真が目新しいものではなく、日常のありふれた一部になると、少なからぬ画家が、カメラの画像をライバルというより、そこから制作するための素材として扱い始めました。新聞、広告、アーカイブ、家族のアルバムのなかの写真は、すでに共有された視覚言語であり、そこから描くことは、見慣れたものを引き受けて、その速度を落とすことを意味しました。このページでは、これを異なる理由から行った三人の画家と、その周囲にある多様なアプローチ、そして写真から描くことが何をもたらすように見えるのかを眺めます。これは[窓から鏡へ](/articles/window-to-mirror)と対になるページです。
+写真が目新しいものではなく、日常のありふれた一部になると、少なからぬ画家が、カメラの画像をライバルというより、そこから制作するための素材として扱い始めました。新聞、広告、アーカイブ、家族のアルバムのなかの写真は、すでに共有された視覚言語であり、そこから描くことは、見慣れたものを引き受けて、その速度を落とすことを意味しました。このページでは、これを異なる理由から行った三人の画家と、その周囲にある多様なアプローチ、そして写真から描くことが何をもたらすように見えるのかを眺めます。
 
 ---
 
@@ -68,11 +68,11 @@ Photographs are now less a novelty than a constant: large numbers of images are 
 ## What the shift left behind
 ## この転回が残したもの
 
-What these practices share is a starting point: an existing image, taken as material rather than as something to compete with. Painting did not disappear when photography took over the recording of appearances; it lost a central position in the critical conversation, and in the process became free to ask a narrower and more interesting question — not what the world looks like, but how images work on us. That is one version of the shift described in [From Window to Mirror](/articles/window-to-mirror), and it is far from the only thing painting has done since.
+What these practices share is a starting point: an existing image, taken as material rather than as something to compete with. Painting did not disappear when photography took over the recording of appearances; it lost a central position in the critical conversation, and in the process became free to ask a narrower and more interesting question — not what the world looks like, but how images work on us. That is one version of a much wider shift, and it is far from the only thing painting has done since.
 
 <!-- -->
 
-これらの実践が共有しているのは、ひとつの出発点です。既存の画像を、競う相手ではなく素材として引き受けること。写真が見かけの記録を引き受けたとき、絵画は消えたわけではありません。批評の議論のなかで中心的な位置を失い、その過程で、より狭く、より興味深い問いを立てる自由を得ました。世界がどう見えるかではなく、画像が私たちにどう働きかけるのか、という問いです。それは[窓から鏡へ](/articles/window-to-mirror)で述べた転回のひとつの現れであり、その後の絵画がしてきたことの、ごく一部にすぎません。
+これらの実践が共有しているのは、ひとつの出発点です。既存の画像を、競う相手ではなく素材として引き受けること。写真が見かけの記録を引き受けたとき、絵画は消えたわけではありません。批評の議論のなかで中心的な位置を失い、その過程で、より狭く、より興味深い問いを立てる自由を得ました。世界がどう見えるかではなく、画像が私たちにどう働きかけるのか、という問いです。それはより大きな転回のひとつの現れであり、その後の絵画がしてきたことの、ごく一部にすぎません。
 
 <ol class="footnotes">
 <li>"New European Painting" — an art-historical term for postwar and contemporary European figuration. <a href="https://www.contemporaryartissue.com/" target="_blank" rel="noopener">Contemporary Art Issue</a></li>

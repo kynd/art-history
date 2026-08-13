@@ -49,33 +49,33 @@ The early responses were not a rejection of the visible world. As photography sp
 ## The turn toward abstraction
 ## 抽象への転回
 
-As photography and then film took on more of the work of description, many painters moved further away from it. Cubism broke the single viewpoint into shifting planes; Expressionism pushed colour and distortion toward psychological effect; and by the mid-twentieth century some painters had left representation altogether. Kazimir Malevich, Jackson Pollock, and Mark Rothko presented the canvas as an object in its own right — flat, and made of pigment, gesture, and material — rather than as a view onto something else. The motives behind this varied widely, from the spiritual to the strictly formal. (See [Spiritual Abstraction](/articles/spiritual-abstraction) and [Materiality and the Honest Surface](/articles/materiality-and-process); for the decade of the leap, [Art in the 1910s](/articles/art-1910s).)
+As photography and then film took on more of the work of description, many painters moved further away from it. Cubism broke the single viewpoint into shifting planes; Expressionism pushed colour and distortion toward psychological effect; and by the mid-twentieth century some painters had left representation altogether. Kazimir Malevich, Jackson Pollock, and Mark Rothko presented the canvas as an object in its own right — flat, and made of pigment, gesture, and material — rather than as a view onto something else. The motives behind this varied widely, from the spiritual to the strictly formal.
 
 <!-- -->
 
-写真が、そして次いで映画が、描写の仕事をより多く引き受けるようになると、多くの画家はそこからさらに離れていきました。キュビスムは単一の視点を移ろう面へと砕き、表現主義は色彩と歪みを心理的な効果へと押し進め、二十世紀半ばまでには、再現そのものを離れた画家も現れます。カジミール・マレーヴィチ、ジャクソン・ポロック、マーク・ロスコは、キャンバスを、何か別のものへの眺めとしてではなく、それ自体で一個の物として—平らで、顔料と身振りと素材でできたものとして—差し出しました。その動機は、精神的なものから厳密に形式的なものまで、大きく異なります。（[精神的な抽象](/articles/spiritual-abstraction)と[物質性と正直な表面](/articles/materiality-and-process)を、飛躍の十年については[1910年代の芸術](/articles/art-1910s)を参照してください。）
+写真が、そして次いで映画が、描写の仕事をより多く引き受けるようになると、多くの画家はそこからさらに離れていきました。キュビスムは単一の視点を移ろう面へと砕き、表現主義は色彩と歪みを心理的な効果へと押し進め、二十世紀半ばまでには、再現そのものを離れた画家も現れます。カジミール・マレーヴィチ、ジャクソン・ポロック、マーク・ロスコは、キャンバスを、何か別のものへの眺めとしてではなく、それ自体で一個の物として—平らで、顔料と身振りと素材でできたものとして—差し出しました。その動機は、精神的なものから厳密に形式的なものまで、大きく異なります。
 
 ---
 
 ## The "death of painting"
 ## 「絵画の死」
 
-By the mid-twentieth century, and repeatedly afterwards, critics and dealers announced the "death of painting": photography, film, and later conceptual and new-media art had supposedly made the canvas obsolete. Something real did happen — painting lost the central position it had held in critical conversation, and other media took the foreground. But the announcements said as much about critical fashion and the art market as about what artists were doing. Throughout those decades, large numbers of people went on buying paint, stretching canvas, and working in studios. What changed was painting's role rather than its survival: released from the duty to describe the world, it became one option among many, and for many artists a place to work on how images function. (On how such reputations are made, see [The Great Cut](/articles/the-great-cut) and [What Is Art?](/articles/what-is-art).)
+By the mid-twentieth century, and repeatedly afterwards, critics and dealers announced the "death of painting": photography, film, and later conceptual and new-media art had supposedly made the canvas obsolete. Something real did happen — painting lost the central position it had held in critical conversation, and other media took the foreground. But the announcements said as much about critical fashion and the art market as about what artists were doing. Throughout those decades, large numbers of people went on buying paint, stretching canvas, and working in studios. What changed was painting's role rather than its survival: released from the duty to describe the world, it became one option among many, and for many artists a place to work on how images function.
 
 <!-- -->
 
-二十世紀の半ばに、そしてその後も繰り返し、批評家や画商は「絵画の死」を告げました。写真、映画、そしてのちにはコンセプチュアル・アートやニューメディアが、キャンバスを時代遅れにした、という話です。実際に起きたこともあります。絵画は、批評の議論のなかで占めていた中心的な位置を失い、他の媒体が前面に出ました。しかしその宣言は、芸術家が実際に何をしていたかと同じくらい、批評の流行と美術市場について語るものでもありました。その数十年のあいだも、多くの人々が絵の具を買い、キャンバスを張り、アトリエで制作を続けています。変わったのは絵画の存続ではなく、その役割でした。世界を記述する務めから解かれた絵画は、数ある選択肢のひとつとなり、多くの芸術家にとっては、画像がどう働くのかを考える場所になりました。（そうした評判がどう作られるかについては[大断絶](/articles/the-great-cut)と[アートとは何か](/articles/what-is-art)を参照してください。）
+二十世紀の半ばに、そしてその後も繰り返し、批評家や画商は「絵画の死」を告げました。写真、映画、そしてのちにはコンセプチュアル・アートやニューメディアが、キャンバスを時代遅れにした、という話です。実際に起きたこともあります。絵画は、批評の議論のなかで占めていた中心的な位置を失い、他の媒体が前面に出ました。しかしその宣言は、芸術家が実際に何をしていたかと同じくらい、批評の流行と美術市場について語るものでもありました。その数十年のあいだも、多くの人々が絵の具を買い、キャンバスを張り、アトリエで制作を続けています。変わったのは絵画の存続ではなく、その役割でした。世界を記述する務めから解かれた絵画は、数ある選択肢のひとつとなり、多くの芸術家にとっては、画像がどう働くのかを考える場所になりました。
 
 ---
 
 ## From window to mirror
 ## 窓から鏡へ
 
-If the window is a useful shorthand for what painting was expected to do, a mirror is a rough shorthand for one thing it became: a surface that tells us something about seeing and about images, rather than offering a view onto the world beyond it. It is a metaphor rather than a rule — plenty of painting since has done neither, and figuration never went away. What painting does with the photograph in particular, borrowing it as material rather than competing with it, is the subject of the companion essay, [Painting After Photography](/articles/painting-after-photography).
+If the window is a useful shorthand for what painting was expected to do, a mirror is a rough shorthand for one thing it became: a surface that tells us something about seeing and about images, rather than offering a view onto the world beyond it. It is a metaphor rather than a rule — plenty of painting since has done neither, and figuration never went away.
 
 <!-- -->
 
-「窓」が、絵画に期待されていたことの手短な言い換えとして役に立つなら、「鏡」は、絵画がなったもののひとつを手短に言い表したものです。その向こうにある世界への眺めを差し出すのではなく、見ることや画像について何かを伝える表面、という意味においてです。これは規則ではなく比喩にすぎません。その後の絵画には、どちらにも当てはまらないものが数多くありますし、具象が消えたわけでもありません。とりわけ写真を、競う相手としてではなく素材として借りながら、絵画が何をするのかは、対になるページ[写真以後の絵画](/articles/painting-after-photography)の主題です。
+「窓」が、絵画に期待されていたことの手短な言い換えとして役に立つなら、「鏡」は、絵画がなったもののひとつを手短に言い表したものです。その向こうにある世界への眺めを差し出すのではなく、見ることや画像について何かを伝える表面、という意味においてです。これは規則ではなく比喩にすぎません。その後の絵画には、どちらにも当てはまらないものが数多くありますし、具象が消えたわけでもありません。
 
 <ol class="footnotes">
 <li>E.H. Gombrich, <em>The Story of Art</em> (1950). <a href="https://www.phaidon.com/store/art/the-story-of-art-9780714832470/" target="_blank" rel="noopener">A classic account of the human history of making images — Phaidon</a></li>

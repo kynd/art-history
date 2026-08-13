@@ -44,6 +44,12 @@ export const ARTISTS = [
   { label: 'Ernst Ludwig Kirchner', group: 'Fine art', aliases: ['Kirchner', 'キルヒナー'] },
   { label: 'Wassily Kandinsky', group: 'Fine art', aliases: ['Kandinsky', 'カンディンスキー'] },
   { label: 'Kazimir Malevich', group: 'Fine art', aliases: ['Malevich', 'マレーヴィチ'] },
+  { label: 'Hilma af Klint', query: 'Hilma af Klint, early abstraction and spiritualism', group: 'Fine art', aliases: ['af Klint', 'アフ・クリント'] },
+  { label: 'Franz Marc', group: 'Fine art', aliases: ['Franz Marc', 'マルク'] },
+  { label: 'Gabriele Münter', group: 'Fine art', aliases: ['Münter', 'ミュンター'] },
+  { label: 'František Kupka', group: 'Fine art', aliases: ['Kupka', 'クプカ'] },
+  { label: 'Georgiana Houghton', group: 'Fine art', aliases: ['Houghton', 'ホートン'] },
+  { label: 'Emma Kunz', group: 'Fine art', aliases: ['Emma Kunz', 'エマ・クンツ'] },
   { label: 'Piet Mondrian', group: 'Fine art', aliases: ['Mondrian', 'モンドリアン'] },
   { label: 'Marcel Duchamp', group: 'Fine art', aliases: ['Duchamp', 'デュシャン'] },
   { label: 'Umberto Boccioni', group: 'Fine art', aliases: ['Boccioni', 'ボッチョーニ'] },
@@ -171,6 +177,7 @@ export const ARTISTS = [
   { label: 'Mies van der Rohe', group: 'Design & architecture', aliases: ['Mies', 'ミース・ファン・デル・ローエ'] },
   { label: 'Marcel Breuer', group: 'Design & architecture', aliases: ['Breuer', 'ブロイヤー'] },
   { label: 'Paul Klee', group: 'Design & architecture', aliases: ['Klee', 'クレー'] },
+  { label: 'Rudolf Steiner', query: 'Rudolf Steiner, anthroposophy and the Goetheanum', group: 'Design & architecture', aliases: ['Steiner', 'シュタイナー'] },
   { label: 'László Moholy-Nagy', group: 'Design & architecture', aliases: ['Moholy-Nagy', 'モホイ'] },
   { label: 'Philip Johnson', group: 'Design & architecture', aliases: ['Philip Johnson', 'ジョンソン'] },
   { label: 'Charles and Ray Eames', group: 'Design & architecture', aliases: ['Eames', 'イームズ'] },
@@ -195,6 +202,9 @@ export const ARTISTS = [
 
   // ── Film & music ────────────────────────────────────────────
   { label: 'Claude Debussy', group: 'Film & music', aliases: ['Debussy', 'ドビュッシー'] },
+  { label: 'Arnold Schoenberg', query: 'Arnold Schoenberg, atonality and painting', group: 'Film & music', aliases: ['Schoenberg', 'シェーンベルク'] },
+  { label: 'Oskar Fischinger', group: 'Film & music', aliases: ['Fischinger', 'フィッシンガー'] },
+  { label: 'Thomas Wilfred', query: 'Thomas Wilfred and Lumia, projected colour', group: 'Film & music', aliases: ['Wilfred', 'ウィルフレッド'] },
   { label: 'Igor Stravinsky', group: 'Film & music', aliases: ['Stravinsky', 'ストラヴィンスキー'] },
   { label: 'Charlie Chaplin', group: 'Film & music', aliases: ['Chaplin', 'チャップリン'] },
   { label: 'Sergei Eisenstein', group: 'Film & music', aliases: ['Eisenstein', 'エイゼンシュテイン'] },
@@ -230,6 +240,7 @@ export const KEYWORDS = [
   { label: 'Impressionism', group: 'Movements', aliases: ['Impressionist', '印象派'] },
   { label: 'New European Painting', group: 'Movements', aliases: ['ニュー・ヨーロピアン・ペインティング'] },
   { label: 'Nieuwe Visie', query: 'Nieuwe Visie, the Flemish New Vision', group: 'Movements', aliases: ['ニュー・ヴィジョン'] },
+  { label: 'Der Blaue Reiter', query: 'Der Blaue Reiter, the Blue Rider group and almanac', group: 'Movements', aliases: ['Blue Rider', '青騎士'] },
   { label: 'Fauvism', group: 'Movements', aliases: ['Fauves', 'フォーヴィスム'] },
   { label: 'Expressionism', group: 'Movements', aliases: ['表現主義'] },
   { label: 'Cubism', group: 'Movements', aliases: ['キュビスム'] },
@@ -277,6 +288,9 @@ export const KEYWORDS = [
   { label: 'Italian Neorealism', group: 'Movements', aliases: ['ネオレアリズモ'] },
 
   // ── Media & concepts ────────────────────────────────────────
+  { label: 'Theosophy', query: 'Theosophy and early abstract art', group: 'Media & concepts', aliases: ['Theosophical', '神智学'] },
+  { label: 'Synaesthesia', query: 'synaesthesia, colour and sound', group: 'Media & concepts', aliases: ['synesthesia', 'synaesthetic', '共感覚'] },
+  { label: 'Thought-Forms', query: 'Thought-Forms, Besant and Leadbeater 1901', group: 'Media & concepts', aliases: ['思念形態'] },
   { label: 'The Readymade', query: 'the readymade and the ordinary object as art', group: 'Media & concepts', aliases: ['readymade', 'レディメイド'] },
   { label: 'The death of painting', query: 'the death of painting narrative', group: 'Media & concepts', aliases: ['絵画の死'] },
   { label: 'Retinal art', query: 'retinal art, painting for the eye alone', group: 'Media & concepts', aliases: ['網膜的'] },
